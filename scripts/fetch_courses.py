@@ -105,11 +105,14 @@ def main():
     for g in cfg["groups"]:
         courses = []
         for c in g["courses"]:
-            try:
-                p = playlist(c["id"])
-            except Exception as e:  # network, consent page, layout change
-                p = {"title": "", "description": "", "videos": []}
-                print(f"  ! {c['id']}: {e.__class__.__name__}: {e}", file=sys.stderr)
+            p = {"title": "", "description": "", "videos": []}
+            for attempt in range(3):  # YouTube occasionally serves a page without ytInitialData
+                try:
+                    p = playlist(c["id"])
+                    break
+                except Exception as e:  # network, consent page, layout change
+                    print(f"  ! {c['id']} (try {attempt + 1}): {e.__class__.__name__}: {e}", file=sys.stderr)
+                    time.sleep(3 * (attempt + 1))
             if not p["videos"] and previous.get(c["id"]):
                 failures += 1
                 p["videos"] = previous[c["id"]]
