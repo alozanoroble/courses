@@ -3,7 +3,7 @@
  "groups": [
   {
    "name": "Courses",
-   "note": "Full lecture courses, from first proofs to the arithmetic of elliptic curves.",
+   "note": "Full lecture courses, from first proofs to the arithmetic of elliptic curves. Longest first.",
    "courses": [
     {
      "id": "PLYpVTXjEi1oe1OeAllJpNhFoI4B7Ws8Yl",
@@ -306,616 +306,6 @@
        "id": "9sHf_QdatgE",
        "title": "Elliptic Curves - Lecture 28c - An example of descent via 2-isogeny",
        "length": "16:32"
-      }
-     ]
-    },
-    {
-     "id": "PLYpVTXjEi1ofrWLqu27MX_yUyw_pYOokl",
-     "title": "Number Theory and Geometry",
-     "by": null,
-     "year": null,
-     "description": "The contents of the videos in this playlist correspond to material from my book \"Number Theory and Geometry\" which you can find here:\n\nhttps://alozano.clas.uconn.edu/number-theory-and-geometry/",
-     "videos": [
-      {
-       "id": "vYvogcQnPUA",
-       "title": "Number Theory and Geometry -- Euclid's algorithm and Bezout's identity",
-       "length": "42:13"
-      },
-      {
-       "id": "WS_YT4vuV-I",
-       "title": "Common Math Notation",
-       "length": "12:08"
-      },
-      {
-       "id": "ZzxEJQVIq2Q",
-       "title": "Number Theory and Geometry -- Introduction to congruences",
-       "length": "40:14"
-      },
-      {
-       "id": "7RxHyEMkNqs",
-       "title": "Number Theory and Geometry -- Properties of congruences",
-       "length": "37:03"
-      },
-      {
-       "id": "cJNQ_QvWrk0",
-       "title": "Number Theory and Geometry -- Cancellation in congruences",
-       "length": "18:10"
-      },
-      {
-       "id": "-R2IKZO4QLY",
-       "title": "Number Theory and Geometry -- An application of congruences: divisibility tests",
-       "length": "22:27"
-      },
-      {
-       "id": "TpPxzPHgLhc",
-       "title": "Number Theory and Geometry -- Euclid's proof, revisited in terms of congruences",
-       "length": "14:17"
-      },
-      {
-       "id": "M-54lo0uzjY",
-       "title": "Number Theory and Geometry -- Decimal expansions and congruences",
-       "length": "20:26"
-      },
-      {
-       "id": "haf1szSmcQY",
-       "title": "Number Theory and Geometry -- Fermat's little theorem",
-       "length": "46:38"
-      }
-     ]
-    },
-    {
-     "id": "PLYpVTXjEi1odOQGXWGSD-ub2xtYrqW0Lt",
-     "title": "A Quick Introduction to Number Theory",
-     "by": null,
-     "year": null,
-     "description": "This playlist is a quick introduction to the basic concepts of modern number theory, with the goal of introducing the viewer to the tools that are needed to understand how modern cryptographic methods based in number theory work. We discuss divisibility, primes, the Fundamental Theorem of Arithmetic, the greatest common divisor, Euclid's algorithm, congruences, congruence classes, multiplicative inverses, Fermat's little theorem, finite fields, primitive roots, and the discrete log problem.",
-     "videos": [
-      {
-       "id": "P6tGN69ZcXA",
-       "title": "Quick intro to number theory - 1 - Divisibility",
-       "length": "29:35"
-      },
-      {
-       "id": "V1FG-JLYsMc",
-       "title": "Quick intro to number theory - 2 - Euclid's algorithm",
-       "length": "21:23"
-      },
-      {
-       "id": "PFdQkxSSOVk",
-       "title": "Quick intro to number theory - 3 - Congruences",
-       "length": "26:02"
-      },
-      {
-       "id": "nO9WnHQMqgA",
-       "title": "Quick intro to number theory - 4 - Congruence Classes",
-       "length": "28:34"
-      },
-      {
-       "id": "2iR2sKgYfhg",
-       "title": "Quick intro to number theory - 5 - Applications",
-       "length": "20:26"
-      },
-      {
-       "id": "Ly6nw36BBzU",
-       "title": "Quick intro to number theory - 6 - Finite Fields",
-       "length": "18:42"
-      },
-      {
-       "id": "5EI86JExvE4",
-       "title": "Quick intro to number theory - 8 - Multiplicative order and primitive roots",
-       "length": "27:13"
-      },
-      {
-       "id": "0-XBpK49_-w",
-       "title": "Quick intro to number theory - 0 - Trailer",
-       "length": "3:08"
-      },
-      {
-       "id": "97DruU-nvYg",
-       "title": "Quick intro to number theory - 7 - Fermat's little theorem",
-       "length": "21:49"
-      }
-     ]
-    },
-    {
-     "id": "PLYpVTXjEi1oevBzsshJ4nsxgq_rgeaP3T",
-     "title": "A First Course in Abstract Algebra",
-     "by": null,
-     "year": null,
-     "description": "This playlist is a first course in abstract algebra at the undergraduate/college level. For more information about this class, and other resources, please visit:\n\nhttps://alozano.clas.uconn.edu/abstractalgebra1/",
-     "videos": [
-      {
-       "id": "giGi_7aw8PA",
-       "title": "Logistics - 0 -  A First Course in Abstract Algebra",
-       "length": "7:12"
-      },
-      {
-       "id": "OnCteaujZ-w",
-       "title": "What is... Abstract Algebra? - 1 - A First Course in Abstract Algebra",
-       "length": "23:42"
-      },
-      {
-       "id": "y4mYKpM2GJA",
-       "title": "Why is Abstract Algebra interesting? #math #algebra #abstractalgebra #rubikscube",
-       "length": "3:00"
-      },
-      {
-       "id": "WS_YT4vuV-I",
-       "title": "Common Math Notation",
-       "length": "12:08"
-      },
-      {
-       "id": "IMWbqXQVjvw",
-       "title": "The Integers - 2 - A First Course in Abstract Algebra",
-       "length": "34:06"
-      },
-      {
-       "id": "R4xHkvv03l8",
-       "title": "The uniqueness of additive inverses #math #negativenumbers #integers #axioms #proof",
-       "length": "2:38"
-      },
-      {
-       "id": "-xn8-pMlppM",
-       "title": "The Integers Modulo N - 3 - A First Course in Abstract Algebra",
-       "length": "39:36"
-      },
-      {
-       "id": "vJJ9D-G9ydo",
-       "title": "What Is... A Group? - 4 - A First Course in Abstract Algebra",
-       "length": "35:27"
-      },
-      {
-       "id": "oBFcB5Kjqz0",
-       "title": "Example: Verifying Group Axioms - 4b - A First Course in Abstract Algebra",
-       "length": "14:20"
-      },
-      {
-       "id": "8tJqXtkdTlg",
-       "title": "Basic Properties of Groups - 5 - A First Course in Abstract Algebra",
-       "length": "14:06"
-      },
-      {
-       "id": "oPrjcB2EaAQ",
-       "title": "Subgroups - 6 - A First Course in Abstract Algebra",
-       "length": "32:35"
-      },
-      {
-       "id": "Ea0LLaN3_ys",
-       "title": "Cyclic groups - 7 - A First Course in Abstract Algebra",
-       "length": "28:48"
-      },
-      {
-       "id": "oUhYeMAf4NM",
-       "title": "Properties of Cyclic Groups - 8 - A First Course in Abstract Algebra",
-       "length": "41:43"
-      },
-      {
-       "id": "eB2TF19UfVw",
-       "title": "What is a Permutation Group - 9 - A First Course in Abstract Algebra",
-       "length": "42:07"
-      },
-      {
-       "id": "7ChHGZ0km2Y",
-       "title": "Inverse of a Permutation - 9b - A First Course in Abstract Algebra",
-       "length": "6:07"
-      },
-      {
-       "id": "IvthYF_uKZY",
-       "title": "The Alternating Group - 10 - A First Course in Abstract Algebra",
-       "length": "33:19"
-      },
-      {
-       "id": "Etv2ad1dyzI",
-       "title": "A quick intro to dihedral groups #math #abstractalgebra #grouptheory #dihedralgroup #stem",
-       "length": "2:48"
-      },
-      {
-       "id": "Us7M-RdgJUw",
-       "title": "Dihedral Groups - 11 - A First Course in Abstract Algebra",
-       "length": "24:44"
-      },
-      {
-       "id": "XHc8sy5qMI0",
-       "title": "What is... a Lie group?",
-       "length": "3:08"
-      },
-      {
-       "id": "Zd_992qGm80",
-       "title": "Cosets - 12 - A First Course in Abstract Algebra",
-       "length": "40:44"
-      },
-      {
-       "id": "7eQQ3ZnnQnw",
-       "title": "Lagrange's Theorem - 13 - A First Course in Abstract Algebra",
-       "length": "35:23"
-      },
-      {
-       "id": "Y2dnl8KVpzE",
-       "title": "An Example: Hamilton's Quaternions - 14 - A First Course in Abstract Algebra",
-       "length": "32:23"
-      },
-      {
-       "id": "2mJFEOkiYDM",
-       "title": "Fermat's and Euler's Theorems - 15 - A First Course in Abstract Algebra",
-       "length": "20:35"
-      },
-      {
-       "id": "BszV96uicpY",
-       "title": "The order of an element in a group is equal to the order of its inverse #math #grouptheory #order",
-       "length": "2:39"
-      },
-      {
-       "id": "dVjRmgoz9Kg",
-       "title": "The order of a*b and the order of b*a coincide in a group",
-       "length": "3:14"
-      },
-      {
-       "id": "8sEszx9oWbo",
-       "title": "Comparing Groups - 16 - A First Course in Abstract Algebra",
-       "length": "21:22"
-      },
-      {
-       "id": "5hFCW4hC1Jc",
-       "title": "How to compare groups #math #abstractalgebra #grouptheory #isomorphism #stem",
-       "length": "3:00"
-      },
-      {
-       "id": "Sg727H2PPVg",
-       "title": "Isomorphisms - 17 - A First Course in Abstract Algebra",
-       "length": "29:38"
-      },
-      {
-       "id": "wkVnCsgaWgw",
-       "title": "Properties of Isomorphisms - 18 - A First Course in Abstract Algebra",
-       "length": "26:16"
-      },
-      {
-       "id": "35ug0au-cxs",
-       "title": "Cayley's Theorem - 19 - A First Course in Abstract Algebra",
-       "length": "25:43"
-      },
-      {
-       "id": "zKnUlZfsn5s",
-       "title": "If every element has order 1 or 2 then the group is abelian! #math #grouptheory #abstractalgebra",
-       "length": "1:48"
-      },
-      {
-       "id": "VSVf9hqhoV8",
-       "title": "Direct Products - 20 - A First Course in Abstract Algebra",
-       "length": "30:40"
-      },
-      {
-       "id": "A8tm3fpwsgQ",
-       "title": "Internal Direct Products - 21 - A First Course in Abstract Algebra",
-       "length": "33:13"
-      },
-      {
-       "id": "Xc59rmj_a8A",
-       "title": "Quotient Groups and Normal Subgroups - 22 - A First Course in Abstract Algebra",
-       "length": "32:58"
-      },
-      {
-       "id": "l4FMvoaNwPQ",
-       "title": "Properties of Normal Subgroups - 23 - A First Course in Abstract Algebra",
-       "length": "31:43"
-      },
-      {
-       "id": "w2JsJJ-vFTE",
-       "title": "Homomorphisms - 24 - A First Course in Abstract Algebra",
-       "length": "43:50"
-      },
-      {
-       "id": "RYHKC_oeqho",
-       "title": "Example of group homomorphism and kernel",
-       "length": "3:23"
-      },
-      {
-       "id": "tpYyGcoiuz8",
-       "title": "A homomorphism is injective if and only if the kernel is trivial #math #abstractalgebra #grouptheory",
-       "length": "2:08"
-      },
-      {
-       "id": "GZTQPl__5ic",
-       "title": "Examples of Kernels and Quotients - 25 - A First Course in Abstract Algebra",
-       "length": "19:54"
-      },
-      {
-       "id": "0RqINy7bnxM",
-       "title": "Noether's Isomorphism Theorems - 26 - A First Course in Abstract Algebra",
-       "length": "24:41"
-      },
-      {
-       "id": "IXR_u7AnLVE",
-       "title": "The Correspondence Theorem - 27 - A First Course in Abstract Algebra",
-       "length": "20:38"
-      },
-      {
-       "id": "GtQuVobvzeo",
-       "title": "An Example: More about Quaternions - 28 - A First Course in Abstract Algebra",
-       "length": "32:53"
-      },
-      {
-       "id": "ngLKylwSN7w",
-       "title": "Every abelian group of order 51 is cyclic",
-       "length": "4:36"
-      },
-      {
-       "id": "rgF6N4jLxPw",
-       "title": "p-Groups - 29 - A First Course in Abstract Algebra",
-       "length": "34:43"
-      },
-      {
-       "id": "dZOa7Vdw7d4",
-       "title": "p-Primary Components - 30 - A First Course in Abstract Algebra",
-       "length": "21:26"
-      },
-      {
-       "id": "ZKwUS7y1vWE",
-       "title": "Finite Abelian Groups - 31 - A First Course in Abstract Algebra",
-       "length": "30:47"
-      },
-      {
-       "id": "i1H5hENNFiY",
-       "title": "Finitely generated abelian groups and elliptic curves #math #abstractalgebra #numbertheory #stem",
-       "length": "2:55"
-      },
-      {
-       "id": "5T18K8DpTO0",
-       "title": "Group Actions - 32 - A First Course in Abstract Algebra",
-       "length": "32:38"
-      },
-      {
-       "id": "9SjSZjopq7I",
-       "title": "Properties of Group Actions - 33 - A First Course in Abstract Algebra",
-       "length": "36:39"
-      },
-      {
-       "id": "WdqaNBQRgLQ",
-       "title": "The Orbit-Stabilizer Theorem - 34 - A First Course in Abstract Algebra",
-       "length": "16:48"
-      },
-      {
-       "id": "UhqGSqHW7tc",
-       "title": "The Class Equation - 35 - A First Course in Abstract Algebra",
-       "length": "24:59"
-      },
-      {
-       "id": "SDeS1A_mlJw",
-       "title": "Consequences of the Class Equation - 36 - A First Course in Abstract Algebra",
-       "length": "14:38"
-      },
-      {
-       "id": "ii8mjX4ZATk",
-       "title": "Introduction to the Sylow Theorems - 37 - A First Course in Abstract Algebra",
-       "length": "8:41"
-      },
-      {
-       "id": "L3bNXT81ab4",
-       "title": "Cauchy's Theorem - 38 - A First Course in Abstract Algebra",
-       "length": "18:07"
-      },
-      {
-       "id": "P3Fa7ZKib7c",
-       "title": "The First Sylow Theorem - 39 - A First Course in Abstract Algebra",
-       "length": "24:34"
-      },
-      {
-       "id": "s88IFwvDJA8",
-       "title": "The Sylow Theorems (Examples) - 40 - A First Course in Abstract Algebra",
-       "length": "30:24"
-      },
-      {
-       "id": "09JE3R76FWs",
-       "title": "Normalizers - 41 - A First Course in Abstract Algebra",
-       "length": "31:42"
-      },
-      {
-       "id": "7lQjefit-6g",
-       "title": "What is... the Inverse Galois Problem? #math #grouptheory #galois #openproblem #stem",
-       "length": "2:32"
-      },
-      {
-       "id": "lV-yKnXLX30",
-       "title": "The Second Sylow Theorem - 42 - A First Course in Abstract Algebra",
-       "length": "16:59"
-      },
-      {
-       "id": "jdMYHqox5rA",
-       "title": "The Third Sylow Theorem - 43 - A First Course in Abstract Algebra",
-       "length": "15:14"
-      },
-      {
-       "id": "GLozgq0E348",
-       "title": "My Favorite Proof in Abstract Algebra",
-       "length": "5:51"
-      },
-      {
-       "id": "2fKOihaf7cM",
-       "title": "Using the Sylow Theorems - 44 - A First Course in Abstract Algebra",
-       "length": "32:20"
-      },
-      {
-       "id": "n_w_J48oAwU",
-       "title": "The many, MANY, applications of group theory",
-       "length": "3:34"
-      }
-     ]
-    },
-    {
-     "id": "PLYpVTXjEi1odgDJEAYZp-2k0cpA5woBZF",
-     "title": "Abstract Algebra 2",
-     "by": null,
-     "year": null,
-     "description": "In this playlist I am going to include material from a second course in abstract algebra, which covers some review of groups, some more advanced topics in group theory (e.g., semi-direct products), ring theory, and some abstract linear algebra.",
-     "videos": [
-      {
-       "id": "UAl7YuWXjD0",
-       "title": "The inverse of a canonical isomorphism",
-       "length": "4:55"
-      },
-      {
-       "id": "kZ3IMvT114U",
-       "title": "When are two polynomials \"orthogonal\"?",
-       "length": "3:22"
-      },
-      {
-       "id": "SSPbgRQCqUo",
-       "title": "Derivatives via matrix multiplication",
-       "length": "4:27"
-      },
-      {
-       "id": "zLwcJes9afQ",
-       "title": "EIGENSTUFF - Eigenvectors, eigenvalues, and eigenspaces",
-       "length": "29:46"
-      },
-      {
-       "id": "RmPhtPPKR9U",
-       "title": "Irreducibility criteria in integral domains",
-       "length": "33:59"
-      },
-      {
-       "id": "w4VgvJWr9Vg",
-       "title": "Zorn's Lemma in Abstract Algebra",
-       "length": "30:47"
-      },
-      {
-       "id": "t5zgF74Pa80",
-       "title": "What is... a semi-direct product of groups?",
-       "length": "5:39"
-      },
-      {
-       "id": "Njq_sPMt1Dg",
-       "title": "A method to compute the commutator subgroup",
-       "length": "4:05"
-      },
-      {
-       "id": "IanHAQFCss4",
-       "title": "The commutator subgroup is a normal subgroup",
-       "length": "3:18"
-      },
-      {
-       "id": "_A6QGorCcac",
-       "title": "A quotient group of the affine group",
-       "length": "4:44"
-      },
-      {
-       "id": "coizXPofg9Q",
-       "title": "Left and right cosets, and normal subgroups",
-       "length": "3:50"
-      },
-      {
-       "id": "85BIg4rDwDE",
-       "title": "The affine group in abstract algebra #math #abstractalgebra #grouptheory #geometry #stem",
-       "length": "2:56"
-      }
-     ]
-    },
-    {
-     "id": "PLYpVTXjEi1ocryECsRHKrOzryw8YamASj",
-     "title": "Introduction to Linear Algebra",
-     "by": null,
-     "year": null,
-     "description": "This is a series of introductory videos to topics in linear algebra.",
-     "videos": [
-      {
-       "id": "4WVBLRiudi8",
-       "title": "Let's learn how to row reduce matrices because it's a FUNDAMENTAL skill in linear algebra! #math",
-       "length": "2:53"
-      },
-      {
-       "id": "WS_YT4vuV-I",
-       "title": "Common Math Notation",
-       "length": "12:08"
-      },
-      {
-       "id": "XPtQ1nuOzVc",
-       "title": "In this video we learn how to analyze a row reduced echelon form (RREF) #math #linearalgebra",
-       "length": "2:28"
-      },
-      {
-       "id": "wTYfMvgcG6s",
-       "title": "What happens geometrically when we are doing row reduction? #math #linearalgebra",
-       "length": "2:25"
-      },
-      {
-       "id": "fRqkvk8LEvw",
-       "title": "The inverse map of a linear map, and the inverse matrix",
-       "length": "32:27"
-      },
-      {
-       "id": "Ys7poEtVMgE",
-       "title": "The INVERTIBLE matrix theorem",
-       "length": "3:17"
-      },
-      {
-       "id": "kiM3o7egX3k",
-       "title": "An introduction to determinants of nxn matrices",
-       "length": "22:30"
-      },
-      {
-       "id": "Pd_aQGduo90",
-       "title": "How to compute determinants of 2x2 and 3x3 matrices",
-       "length": "3:48"
-      },
-      {
-       "id": "HrMJke2on9U",
-       "title": "Linear algebra review and problems on linear systems, row reduction, and linear transformations",
-       "length": "1:10:26"
-      },
-      {
-       "id": "njjWbGjmJ3g",
-       "title": "What is... a kernel? What is... a null space?",
-       "length": "4:53"
-      },
-      {
-       "id": "jHsojKVCzns",
-       "title": "Let's see how to compute the cross product of two vectors in an example #math #crossproduct #vectors",
-       "length": "2:01"
-      },
-      {
-       "id": "h-8JjNx8avo",
-       "title": "An example of finding eigenvectors and eigenvalues",
-       "length": "3:50"
-      },
-      {
-       "id": "1LXnF92yE7I",
-       "title": "An example of matrix diagonalization",
-       "length": "8:09"
-      },
-      {
-       "id": "kZ3IMvT114U",
-       "title": "When are two polynomials \"orthogonal\"?",
-       "length": "3:22"
-      },
-      {
-       "id": "vFu53LEswGc",
-       "title": "What is... the Gram-Schmidt process?",
-       "length": "3:58"
-      },
-      {
-       "id": "DgkTeTWkikI",
-       "title": "Why do we diagonalize matrices?",
-       "length": "3:12"
-      },
-      {
-       "id": "uOTLXBib3dE",
-       "title": "What's the difference between the cross product and the Gram-Schmidt process?",
-       "length": "2:37"
-      },
-      {
-       "id": "ZQZZ3sD-pQs",
-       "title": "You need the geometric intuition of R^3 precisely to have some sense of abstract vector spaces #math",
-       "length": "2:52"
-      },
-      {
-       "id": "mwIT5GQ9t30",
-       "title": "Coordinate Systems in Linear Algebra",
-       "length": "48:36"
-      },
-      {
-       "id": "FW1AIYsoz2M",
-       "title": "Derivatives and Integrals of polynomials via matrix multiplication, linear algebra #math #integral",
-       "length": "2:29"
       }
      ]
     },
@@ -1334,6 +724,665 @@
      ]
     },
     {
+     "id": "PLYpVTXjEi1oevBzsshJ4nsxgq_rgeaP3T",
+     "title": "A First Course in Abstract Algebra",
+     "by": null,
+     "year": null,
+     "description": "This playlist is a first course in abstract algebra at the undergraduate/college level. For more information about this class, and other resources, please visit:\n\nhttps://alozano.clas.uconn.edu/abstractalgebra1/",
+     "videos": [
+      {
+       "id": "giGi_7aw8PA",
+       "title": "Logistics - 0 -  A First Course in Abstract Algebra",
+       "length": "7:12"
+      },
+      {
+       "id": "OnCteaujZ-w",
+       "title": "What is... Abstract Algebra? - 1 - A First Course in Abstract Algebra",
+       "length": "23:42"
+      },
+      {
+       "id": "y4mYKpM2GJA",
+       "title": "Why is Abstract Algebra interesting? #math #algebra #abstractalgebra #rubikscube",
+       "length": "3:00"
+      },
+      {
+       "id": "WS_YT4vuV-I",
+       "title": "Common Math Notation",
+       "length": "12:08"
+      },
+      {
+       "id": "IMWbqXQVjvw",
+       "title": "The Integers - 2 - A First Course in Abstract Algebra",
+       "length": "34:06"
+      },
+      {
+       "id": "R4xHkvv03l8",
+       "title": "The uniqueness of additive inverses #math #negativenumbers #integers #axioms #proof",
+       "length": "2:38"
+      },
+      {
+       "id": "-xn8-pMlppM",
+       "title": "The Integers Modulo N - 3 - A First Course in Abstract Algebra",
+       "length": "39:36"
+      },
+      {
+       "id": "vJJ9D-G9ydo",
+       "title": "What Is... A Group? - 4 - A First Course in Abstract Algebra",
+       "length": "35:27"
+      },
+      {
+       "id": "oBFcB5Kjqz0",
+       "title": "Example: Verifying Group Axioms - 4b - A First Course in Abstract Algebra",
+       "length": "14:20"
+      },
+      {
+       "id": "8tJqXtkdTlg",
+       "title": "Basic Properties of Groups - 5 - A First Course in Abstract Algebra",
+       "length": "14:06"
+      },
+      {
+       "id": "oPrjcB2EaAQ",
+       "title": "Subgroups - 6 - A First Course in Abstract Algebra",
+       "length": "32:35"
+      },
+      {
+       "id": "Ea0LLaN3_ys",
+       "title": "Cyclic groups - 7 - A First Course in Abstract Algebra",
+       "length": "28:48"
+      },
+      {
+       "id": "oUhYeMAf4NM",
+       "title": "Properties of Cyclic Groups - 8 - A First Course in Abstract Algebra",
+       "length": "41:43"
+      },
+      {
+       "id": "eB2TF19UfVw",
+       "title": "What is a Permutation Group - 9 - A First Course in Abstract Algebra",
+       "length": "42:07"
+      },
+      {
+       "id": "7ChHGZ0km2Y",
+       "title": "Inverse of a Permutation - 9b - A First Course in Abstract Algebra",
+       "length": "6:07"
+      },
+      {
+       "id": "IvthYF_uKZY",
+       "title": "The Alternating Group - 10 - A First Course in Abstract Algebra",
+       "length": "33:19"
+      },
+      {
+       "id": "Etv2ad1dyzI",
+       "title": "A quick intro to dihedral groups #math #abstractalgebra #grouptheory #dihedralgroup #stem",
+       "length": "2:48"
+      },
+      {
+       "id": "Us7M-RdgJUw",
+       "title": "Dihedral Groups - 11 - A First Course in Abstract Algebra",
+       "length": "24:44"
+      },
+      {
+       "id": "XHc8sy5qMI0",
+       "title": "What is... a Lie group?",
+       "length": "3:08"
+      },
+      {
+       "id": "Zd_992qGm80",
+       "title": "Cosets - 12 - A First Course in Abstract Algebra",
+       "length": "40:44"
+      },
+      {
+       "id": "7eQQ3ZnnQnw",
+       "title": "Lagrange's Theorem - 13 - A First Course in Abstract Algebra",
+       "length": "35:23"
+      },
+      {
+       "id": "Y2dnl8KVpzE",
+       "title": "An Example: Hamilton's Quaternions - 14 - A First Course in Abstract Algebra",
+       "length": "32:23"
+      },
+      {
+       "id": "2mJFEOkiYDM",
+       "title": "Fermat's and Euler's Theorems - 15 - A First Course in Abstract Algebra",
+       "length": "20:35"
+      },
+      {
+       "id": "BszV96uicpY",
+       "title": "The order of an element in a group is equal to the order of its inverse #math #grouptheory #order",
+       "length": "2:39"
+      },
+      {
+       "id": "dVjRmgoz9Kg",
+       "title": "The order of a*b and the order of b*a coincide in a group",
+       "length": "3:14"
+      },
+      {
+       "id": "8sEszx9oWbo",
+       "title": "Comparing Groups - 16 - A First Course in Abstract Algebra",
+       "length": "21:22"
+      },
+      {
+       "id": "5hFCW4hC1Jc",
+       "title": "How to compare groups #math #abstractalgebra #grouptheory #isomorphism #stem",
+       "length": "3:00"
+      },
+      {
+       "id": "Sg727H2PPVg",
+       "title": "Isomorphisms - 17 - A First Course in Abstract Algebra",
+       "length": "29:38"
+      },
+      {
+       "id": "wkVnCsgaWgw",
+       "title": "Properties of Isomorphisms - 18 - A First Course in Abstract Algebra",
+       "length": "26:16"
+      },
+      {
+       "id": "35ug0au-cxs",
+       "title": "Cayley's Theorem - 19 - A First Course in Abstract Algebra",
+       "length": "25:43"
+      },
+      {
+       "id": "zKnUlZfsn5s",
+       "title": "If every element has order 1 or 2 then the group is abelian! #math #grouptheory #abstractalgebra",
+       "length": "1:48"
+      },
+      {
+       "id": "VSVf9hqhoV8",
+       "title": "Direct Products - 20 - A First Course in Abstract Algebra",
+       "length": "30:40"
+      },
+      {
+       "id": "A8tm3fpwsgQ",
+       "title": "Internal Direct Products - 21 - A First Course in Abstract Algebra",
+       "length": "33:13"
+      },
+      {
+       "id": "Xc59rmj_a8A",
+       "title": "Quotient Groups and Normal Subgroups - 22 - A First Course in Abstract Algebra",
+       "length": "32:58"
+      },
+      {
+       "id": "l4FMvoaNwPQ",
+       "title": "Properties of Normal Subgroups - 23 - A First Course in Abstract Algebra",
+       "length": "31:43"
+      },
+      {
+       "id": "w2JsJJ-vFTE",
+       "title": "Homomorphisms - 24 - A First Course in Abstract Algebra",
+       "length": "43:50"
+      },
+      {
+       "id": "RYHKC_oeqho",
+       "title": "Example of group homomorphism and kernel",
+       "length": "3:23"
+      },
+      {
+       "id": "tpYyGcoiuz8",
+       "title": "A homomorphism is injective if and only if the kernel is trivial #math #abstractalgebra #grouptheory",
+       "length": "2:08"
+      },
+      {
+       "id": "GZTQPl__5ic",
+       "title": "Examples of Kernels and Quotients - 25 - A First Course in Abstract Algebra",
+       "length": "19:54"
+      },
+      {
+       "id": "0RqINy7bnxM",
+       "title": "Noether's Isomorphism Theorems - 26 - A First Course in Abstract Algebra",
+       "length": "24:41"
+      },
+      {
+       "id": "IXR_u7AnLVE",
+       "title": "The Correspondence Theorem - 27 - A First Course in Abstract Algebra",
+       "length": "20:38"
+      },
+      {
+       "id": "GtQuVobvzeo",
+       "title": "An Example: More about Quaternions - 28 - A First Course in Abstract Algebra",
+       "length": "32:53"
+      },
+      {
+       "id": "ngLKylwSN7w",
+       "title": "Every abelian group of order 51 is cyclic",
+       "length": "4:36"
+      },
+      {
+       "id": "rgF6N4jLxPw",
+       "title": "p-Groups - 29 - A First Course in Abstract Algebra",
+       "length": "34:43"
+      },
+      {
+       "id": "dZOa7Vdw7d4",
+       "title": "p-Primary Components - 30 - A First Course in Abstract Algebra",
+       "length": "21:26"
+      },
+      {
+       "id": "ZKwUS7y1vWE",
+       "title": "Finite Abelian Groups - 31 - A First Course in Abstract Algebra",
+       "length": "30:47"
+      },
+      {
+       "id": "i1H5hENNFiY",
+       "title": "Finitely generated abelian groups and elliptic curves #math #abstractalgebra #numbertheory #stem",
+       "length": "2:55"
+      },
+      {
+       "id": "5T18K8DpTO0",
+       "title": "Group Actions - 32 - A First Course in Abstract Algebra",
+       "length": "32:38"
+      },
+      {
+       "id": "9SjSZjopq7I",
+       "title": "Properties of Group Actions - 33 - A First Course in Abstract Algebra",
+       "length": "36:39"
+      },
+      {
+       "id": "WdqaNBQRgLQ",
+       "title": "The Orbit-Stabilizer Theorem - 34 - A First Course in Abstract Algebra",
+       "length": "16:48"
+      },
+      {
+       "id": "UhqGSqHW7tc",
+       "title": "The Class Equation - 35 - A First Course in Abstract Algebra",
+       "length": "24:59"
+      },
+      {
+       "id": "SDeS1A_mlJw",
+       "title": "Consequences of the Class Equation - 36 - A First Course in Abstract Algebra",
+       "length": "14:38"
+      },
+      {
+       "id": "ii8mjX4ZATk",
+       "title": "Introduction to the Sylow Theorems - 37 - A First Course in Abstract Algebra",
+       "length": "8:41"
+      },
+      {
+       "id": "L3bNXT81ab4",
+       "title": "Cauchy's Theorem - 38 - A First Course in Abstract Algebra",
+       "length": "18:07"
+      },
+      {
+       "id": "P3Fa7ZKib7c",
+       "title": "The First Sylow Theorem - 39 - A First Course in Abstract Algebra",
+       "length": "24:34"
+      },
+      {
+       "id": "s88IFwvDJA8",
+       "title": "The Sylow Theorems (Examples) - 40 - A First Course in Abstract Algebra",
+       "length": "30:24"
+      },
+      {
+       "id": "09JE3R76FWs",
+       "title": "Normalizers - 41 - A First Course in Abstract Algebra",
+       "length": "31:42"
+      },
+      {
+       "id": "7lQjefit-6g",
+       "title": "What is... the Inverse Galois Problem? #math #grouptheory #galois #openproblem #stem",
+       "length": "2:32"
+      },
+      {
+       "id": "lV-yKnXLX30",
+       "title": "The Second Sylow Theorem - 42 - A First Course in Abstract Algebra",
+       "length": "16:59"
+      },
+      {
+       "id": "jdMYHqox5rA",
+       "title": "The Third Sylow Theorem - 43 - A First Course in Abstract Algebra",
+       "length": "15:14"
+      },
+      {
+       "id": "GLozgq0E348",
+       "title": "My Favorite Proof in Abstract Algebra",
+       "length": "5:51"
+      },
+      {
+       "id": "2fKOihaf7cM",
+       "title": "Using the Sylow Theorems - 44 - A First Course in Abstract Algebra",
+       "length": "32:20"
+      },
+      {
+       "id": "n_w_J48oAwU",
+       "title": "The many, MANY, applications of group theory",
+       "length": "3:34"
+      }
+     ]
+    },
+    {
+     "id": "PLYpVTXjEi1ofp102VpgSGe-pxFXWJI2j8",
+     "title": "Hypergeometric Functions, Character Sums and Applications",
+     "by": "Ling Long",
+     "year": null,
+     "description": "",
+     "videos": [
+      {
+       "id": "clBXFeQiwtE",
+       "title": "Ling Long - Hypergeometric Functions, Character Sums and Applications - Lecture 1",
+       "length": "50:32"
+      },
+      {
+       "id": "2zbQK6dIMT8",
+       "title": "Ling Long - Hypergeometric Functions, Character Sums and Applications - Lecture 2",
+       "length": "39:47"
+      },
+      {
+       "id": "_gDFFK6Nh2s",
+       "title": "Ling Long - Hypergeometric Functions, Character Sums and Applications - Lecture 3",
+       "length": "45:33"
+      },
+      {
+       "id": "ySu4qrg-aiU",
+       "title": "Ling Long - Hypergeometric Functions, Character Sums and Applications - Lecture 4",
+       "length": "53:04"
+      },
+      {
+       "id": "BD81r5lDZ1U",
+       "title": "Ling Long - Hypergeometric Functions, Character Sums and Applications - Lecture 5",
+       "length": "50:31"
+      },
+      {
+       "id": "mccdt7lQXek",
+       "title": "Ling Long - Hypergeometric Functions, Character Sums and Applications - Lecture 6",
+       "length": "45:12"
+      },
+      {
+       "id": "5L0nROwRKEs",
+       "title": "Ling Long - Hypergeometric Functions, Character Sums and Applications - Lecture 7",
+       "length": "48:24"
+      },
+      {
+       "id": "xqJHZVby0no",
+       "title": "Ling Long - Hypergeometric Functions, Character Sums and Applications - Lecture 8",
+       "length": "44:49"
+      }
+     ]
+    },
+    {
+     "id": "PLYpVTXjEi1ofrWLqu27MX_yUyw_pYOokl",
+     "title": "Number Theory and Geometry",
+     "by": null,
+     "year": null,
+     "description": "The contents of the videos in this playlist correspond to material from my book \"Number Theory and Geometry\" which you can find here:\n\nhttps://alozano.clas.uconn.edu/number-theory-and-geometry/",
+     "videos": [
+      {
+       "id": "vYvogcQnPUA",
+       "title": "Number Theory and Geometry -- Euclid's algorithm and Bezout's identity",
+       "length": "42:13"
+      },
+      {
+       "id": "WS_YT4vuV-I",
+       "title": "Common Math Notation",
+       "length": "12:08"
+      },
+      {
+       "id": "ZzxEJQVIq2Q",
+       "title": "Number Theory and Geometry -- Introduction to congruences",
+       "length": "40:14"
+      },
+      {
+       "id": "7RxHyEMkNqs",
+       "title": "Number Theory and Geometry -- Properties of congruences",
+       "length": "37:03"
+      },
+      {
+       "id": "cJNQ_QvWrk0",
+       "title": "Number Theory and Geometry -- Cancellation in congruences",
+       "length": "18:10"
+      },
+      {
+       "id": "-R2IKZO4QLY",
+       "title": "Number Theory and Geometry -- An application of congruences: divisibility tests",
+       "length": "22:27"
+      },
+      {
+       "id": "TpPxzPHgLhc",
+       "title": "Number Theory and Geometry -- Euclid's proof, revisited in terms of congruences",
+       "length": "14:17"
+      },
+      {
+       "id": "M-54lo0uzjY",
+       "title": "Number Theory and Geometry -- Decimal expansions and congruences",
+       "length": "20:26"
+      },
+      {
+       "id": "haf1szSmcQY",
+       "title": "Number Theory and Geometry -- Fermat's little theorem",
+       "length": "46:38"
+      }
+     ]
+    },
+    {
+     "id": "PLYpVTXjEi1ocryECsRHKrOzryw8YamASj",
+     "title": "Introduction to Linear Algebra",
+     "by": null,
+     "year": null,
+     "description": "This is a series of introductory videos to topics in linear algebra.",
+     "videos": [
+      {
+       "id": "4WVBLRiudi8",
+       "title": "Let's learn how to row reduce matrices because it's a FUNDAMENTAL skill in linear algebra! #math",
+       "length": "2:53"
+      },
+      {
+       "id": "WS_YT4vuV-I",
+       "title": "Common Math Notation",
+       "length": "12:08"
+      },
+      {
+       "id": "XPtQ1nuOzVc",
+       "title": "In this video we learn how to analyze a row reduced echelon form (RREF) #math #linearalgebra",
+       "length": "2:28"
+      },
+      {
+       "id": "wTYfMvgcG6s",
+       "title": "What happens geometrically when we are doing row reduction? #math #linearalgebra",
+       "length": "2:25"
+      },
+      {
+       "id": "fRqkvk8LEvw",
+       "title": "The inverse map of a linear map, and the inverse matrix",
+       "length": "32:27"
+      },
+      {
+       "id": "Ys7poEtVMgE",
+       "title": "The INVERTIBLE matrix theorem",
+       "length": "3:17"
+      },
+      {
+       "id": "kiM3o7egX3k",
+       "title": "An introduction to determinants of nxn matrices",
+       "length": "22:30"
+      },
+      {
+       "id": "Pd_aQGduo90",
+       "title": "How to compute determinants of 2x2 and 3x3 matrices",
+       "length": "3:48"
+      },
+      {
+       "id": "HrMJke2on9U",
+       "title": "Linear algebra review and problems on linear systems, row reduction, and linear transformations",
+       "length": "1:10:26"
+      },
+      {
+       "id": "njjWbGjmJ3g",
+       "title": "What is... a kernel? What is... a null space?",
+       "length": "4:53"
+      },
+      {
+       "id": "jHsojKVCzns",
+       "title": "Let's see how to compute the cross product of two vectors in an example #math #crossproduct #vectors",
+       "length": "2:01"
+      },
+      {
+       "id": "h-8JjNx8avo",
+       "title": "An example of finding eigenvectors and eigenvalues",
+       "length": "3:50"
+      },
+      {
+       "id": "1LXnF92yE7I",
+       "title": "An example of matrix diagonalization",
+       "length": "8:09"
+      },
+      {
+       "id": "kZ3IMvT114U",
+       "title": "When are two polynomials \"orthogonal\"?",
+       "length": "3:22"
+      },
+      {
+       "id": "vFu53LEswGc",
+       "title": "What is... the Gram-Schmidt process?",
+       "length": "3:58"
+      },
+      {
+       "id": "DgkTeTWkikI",
+       "title": "Why do we diagonalize matrices?",
+       "length": "3:12"
+      },
+      {
+       "id": "uOTLXBib3dE",
+       "title": "What's the difference between the cross product and the Gram-Schmidt process?",
+       "length": "2:37"
+      },
+      {
+       "id": "ZQZZ3sD-pQs",
+       "title": "You need the geometric intuition of R^3 precisely to have some sense of abstract vector spaces #math",
+       "length": "2:52"
+      },
+      {
+       "id": "mwIT5GQ9t30",
+       "title": "Coordinate Systems in Linear Algebra",
+       "length": "48:36"
+      },
+      {
+       "id": "FW1AIYsoz2M",
+       "title": "Derivatives and Integrals of polynomials via matrix multiplication, linear algebra #math #integral",
+       "length": "2:29"
+      }
+     ]
+    },
+    {
+     "id": "PLYpVTXjEi1odOQGXWGSD-ub2xtYrqW0Lt",
+     "title": "A Quick Introduction to Number Theory",
+     "by": null,
+     "year": null,
+     "description": "This playlist is a quick introduction to the basic concepts of modern number theory, with the goal of introducing the viewer to the tools that are needed to understand how modern cryptographic methods based in number theory work. We discuss divisibility, primes, the Fundamental Theorem of Arithmetic, the greatest common divisor, Euclid's algorithm, congruences, congruence classes, multiplicative inverses, Fermat's little theorem, finite fields, primitive roots, and the discrete log problem.",
+     "videos": [
+      {
+       "id": "P6tGN69ZcXA",
+       "title": "Quick intro to number theory - 1 - Divisibility",
+       "length": "29:35"
+      },
+      {
+       "id": "V1FG-JLYsMc",
+       "title": "Quick intro to number theory - 2 - Euclid's algorithm",
+       "length": "21:23"
+      },
+      {
+       "id": "PFdQkxSSOVk",
+       "title": "Quick intro to number theory - 3 - Congruences",
+       "length": "26:02"
+      },
+      {
+       "id": "nO9WnHQMqgA",
+       "title": "Quick intro to number theory - 4 - Congruence Classes",
+       "length": "28:34"
+      },
+      {
+       "id": "2iR2sKgYfhg",
+       "title": "Quick intro to number theory - 5 - Applications",
+       "length": "20:26"
+      },
+      {
+       "id": "Ly6nw36BBzU",
+       "title": "Quick intro to number theory - 6 - Finite Fields",
+       "length": "18:42"
+      },
+      {
+       "id": "5EI86JExvE4",
+       "title": "Quick intro to number theory - 8 - Multiplicative order and primitive roots",
+       "length": "27:13"
+      },
+      {
+       "id": "0-XBpK49_-w",
+       "title": "Quick intro to number theory - 0 - Trailer",
+       "length": "3:08"
+      },
+      {
+       "id": "97DruU-nvYg",
+       "title": "Quick intro to number theory - 7 - Fermat's little theorem",
+       "length": "21:49"
+      }
+     ]
+    },
+    {
+     "id": "PLYpVTXjEi1odgDJEAYZp-2k0cpA5woBZF",
+     "title": "Abstract Algebra 2",
+     "by": null,
+     "year": null,
+     "description": "In this playlist I am going to include material from a second course in abstract algebra, which covers some review of groups, some more advanced topics in group theory (e.g., semi-direct products), ring theory, and some abstract linear algebra.",
+     "videos": [
+      {
+       "id": "UAl7YuWXjD0",
+       "title": "The inverse of a canonical isomorphism",
+       "length": "4:55"
+      },
+      {
+       "id": "kZ3IMvT114U",
+       "title": "When are two polynomials \"orthogonal\"?",
+       "length": "3:22"
+      },
+      {
+       "id": "SSPbgRQCqUo",
+       "title": "Derivatives via matrix multiplication",
+       "length": "4:27"
+      },
+      {
+       "id": "zLwcJes9afQ",
+       "title": "EIGENSTUFF - Eigenvectors, eigenvalues, and eigenspaces",
+       "length": "29:46"
+      },
+      {
+       "id": "RmPhtPPKR9U",
+       "title": "Irreducibility criteria in integral domains",
+       "length": "33:59"
+      },
+      {
+       "id": "w4VgvJWr9Vg",
+       "title": "Zorn's Lemma in Abstract Algebra",
+       "length": "30:47"
+      },
+      {
+       "id": "t5zgF74Pa80",
+       "title": "What is... a semi-direct product of groups?",
+       "length": "5:39"
+      },
+      {
+       "id": "Njq_sPMt1Dg",
+       "title": "A method to compute the commutator subgroup",
+       "length": "4:05"
+      },
+      {
+       "id": "IanHAQFCss4",
+       "title": "The commutator subgroup is a normal subgroup",
+       "length": "3:18"
+      },
+      {
+       "id": "_A6QGorCcac",
+       "title": "A quotient group of the affine group",
+       "length": "4:44"
+      },
+      {
+       "id": "coizXPofg9Q",
+       "title": "Left and right cosets, and normal subgroups",
+       "length": "3:50"
+      },
+      {
+       "id": "85BIg4rDwDE",
+       "title": "The affine group in abstract algebra #math #abstractalgebra #grouptheory #geometry #stem",
+       "length": "2:56"
+      }
+     ]
+    },
+    {
      "id": "PLYpVTXjEi1oe_KhAKch4vX73GEEGLlSQR",
      "title": "Set Theory, Logic, and Proofs",
      "by": null,
@@ -1419,55 +1468,6 @@
        "id": "fiQmQnwInhg",
        "title": "A set theory example of intersections and cartesian producs",
        "length": "4:19"
-      }
-     ]
-    },
-    {
-     "id": "PLYpVTXjEi1ofp102VpgSGe-pxFXWJI2j8",
-     "title": "Hypergeometric Functions, Character Sums and Applications",
-     "by": "Ling Long",
-     "year": null,
-     "description": "",
-     "videos": [
-      {
-       "id": "clBXFeQiwtE",
-       "title": "Ling Long - Hypergeometric Functions, Character Sums and Applications - Lecture 1",
-       "length": "50:32"
-      },
-      {
-       "id": "2zbQK6dIMT8",
-       "title": "Ling Long - Hypergeometric Functions, Character Sums and Applications - Lecture 2",
-       "length": "39:47"
-      },
-      {
-       "id": "_gDFFK6Nh2s",
-       "title": "Ling Long - Hypergeometric Functions, Character Sums and Applications - Lecture 3",
-       "length": "45:33"
-      },
-      {
-       "id": "ySu4qrg-aiU",
-       "title": "Ling Long - Hypergeometric Functions, Character Sums and Applications - Lecture 4",
-       "length": "53:04"
-      },
-      {
-       "id": "BD81r5lDZ1U",
-       "title": "Ling Long - Hypergeometric Functions, Character Sums and Applications - Lecture 5",
-       "length": "50:31"
-      },
-      {
-       "id": "mccdt7lQXek",
-       "title": "Ling Long - Hypergeometric Functions, Character Sums and Applications - Lecture 6",
-       "length": "45:12"
-      },
-      {
-       "id": "5L0nROwRKEs",
-       "title": "Ling Long - Hypergeometric Functions, Character Sums and Applications - Lecture 7",
-       "length": "48:24"
-      },
-      {
-       "id": "xqJHZVby0no",
-       "title": "Ling Long - Hypergeometric Functions, Character Sums and Applications - Lecture 8",
-       "length": "44:49"
       }
      ]
     }

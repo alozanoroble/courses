@@ -65,6 +65,14 @@ def videos_from(data):
     return vids
 
 
+def seconds(length):
+    """'1:02:03' -> 3723; None -> 0."""
+    total = 0
+    for part in (length or "").split(":"):
+        total = total * 60 + (int(part) if part.isdigit() else 0)
+    return total
+
+
 def tokens(data):
     return [c["continuationEndpoint"]["continuationCommand"]["token"]
             for c in walk(data, "continuationItemRenderer")
@@ -126,6 +134,8 @@ def main():
                             "videos": p["videos"]})
             print(f"  {len(p['videos']):4d}  {courses[-1]['title']}", file=sys.stderr)
             time.sleep(0.4)
+        if g.get("sort") == "length":  # longest first, by total running time
+            courses.sort(key=lambda c: -sum(seconds(v["length"]) for v in c["videos"]))
         groups.append({"name": g["name"], "note": g.get("note", ""), "courses": courses})
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps({"generated": time.strftime("%Y-%m-%d"), "groups": groups},

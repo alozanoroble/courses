@@ -1,9 +1,10 @@
 {
- "_comment": "Curated list of YouTube playlists shown on /courses/. Order here is order on the page. Titles and descriptions default to YouTube's; set them here to override.",
+ "_comment": "Curated list of YouTube playlists shown on /courses/. Order here is order on the page, unless a group sets \"sort\": \"length\" (longest first). Titles and descriptions default to YouTube's; set them here to override.",
  "groups": [
   {
    "name": "Courses",
-   "note": "Full lecture courses, from first proofs to the arithmetic of elliptic curves.",
+   "note": "Full lecture courses, from first proofs to the arithmetic of elliptic curves. Longest first.",
+   "sort": "length",
    "courses": [
     {"id": "PLYpVTXjEi1oe1OeAllJpNhFoI4B7Ws8Yl", "title": "An Introduction to the Arithmetic of Elliptic Curves"},
     {"id": "PLYpVTXjEi1ofrWLqu27MX_yUyw_pYOokl", "title": "Number Theory and Geometry"},
