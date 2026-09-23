@@ -1,0 +1,50 @@
+{
+ "_comment": "Curated list of YouTube playlists shown on /courses/. Order here is order on the page. Titles and descriptions default to YouTube's; set them here to override.",
+ "groups": [
+  {
+   "name": "Courses",
+   "note": "Full lecture courses, from first proofs to the arithmetic of elliptic curves.",
+   "courses": [
+    {"id": "PLYpVTXjEi1oe1OeAllJpNhFoI4B7Ws8Yl", "title": "An Introduction to the Arithmetic of Elliptic Curves"},
+    {"id": "PLYpVTXjEi1ofrWLqu27MX_yUyw_pYOokl", "title": "Number Theory and Geometry"},
+    {"id": "PLYpVTXjEi1odOQGXWGSD-ub2xtYrqW0Lt", "title": "A Quick Introduction to Number Theory"},
+    {"id": "PLYpVTXjEi1oevBzsshJ4nsxgq_rgeaP3T", "title": "A First Course in Abstract Algebra"},
+    {"id": "PLYpVTXjEi1odgDJEAYZp-2k0cpA5woBZF", "title": "Abstract Algebra 2"},
+    {"id": "PLYpVTXjEi1ocryECsRHKrOzryw8YamASj", "title": "Introduction to Linear Algebra"},
+    {"id": "PLYpVTXjEi1odSM1-P8QR_tlJfQCsK2Qen", "title": "Multi-Variable Calculus"},
+    {"id": "PLYpVTXjEi1oe_KhAKch4vX73GEEGLlSQR", "title": "Set Theory, Logic, and Proofs"},
+    {"id": "PLYpVTXjEi1ofp102VpgSGe-pxFXWJI2j8", "title": "Hypergeometric Functions, Character Sums and Applications"}
+   ]
+  },
+  {
+   "name": "CTNT mini-courses",
+   "note": "Week-long mini-courses from the Connecticut Summer School in Number Theory.",
+   "courses": [
+    {"id": "PLYpVTXjEi1ocH005_i6IhFlXjUj1BziRX", "title": "Elliptic Curve Cryptography", "by": "Álvaro Lozano-Robledo", "year": 2026},
+    {"id": "PLYpVTXjEi1oeWPDe0BzWO7ZVKfL6wDIdQ", "title": "Abelian Extensions and Kronecker–Weber", "by": "Lori Watson", "year": 2026},
+    {"id": "PLYpVTXjEi1ofEXAtkSaVdGcbOPjv2XHOr", "title": "Analytic Aspects of Quadratic Forms", "by": "Keith Conrad", "year": 2026},
+    {"id": "PLYpVTXjEi1oezwlif5JnyY72g3qCntqkw", "title": "Magma and the LMFDB", "by": "Eran Assaf", "year": 2026},
+    {"id": "PLYpVTXjEi1ofzKmhfReVNITVNEhGWslRX", "title": "Introduction to Elliptic Curves", "by": "Álvaro Lozano-Robledo", "year": 2024},
+    {"id": "PLYpVTXjEi1ocC8MW009Vbqm8qnF0v5eUc", "title": "Class Field Theory", "by": "Christelle Vincent", "year": 2024},
+    {"id": "PLYpVTXjEi1oe-0uyZKVFORIu0BxAOppKi", "title": "Using Quadratic Reciprocity", "by": "Keith Conrad", "year": 2024},
+    {"id": "PLYpVTXjEi1oedAJlSOV4mn9dnuT7rVxO3", "title": "An Introduction to Galois Representations", "by": "Álvaro Lozano-Robledo", "year": 2022},
+    {"id": "PLYpVTXjEi1oemKPsG4VCtOMmtaAagZBbl", "title": "100 Years of Chebotarev Density", "by": "Keith Conrad", "year": 2022},
+    {"id": "PLYpVTXjEi1of_UjHtAOJve7VwLArz5kBX", "title": "Local Fields", "by": "Christelle Vincent", "year": 2022},
+    {"id": "PLYpVTXjEi1oeT5c5crLMlrKe7wGlCZDqI", "title": "Algebraic Number Theory", "by": "Hanson Smith", "year": 2022},
+    {"id": "PLYpVTXjEi1oeB0-WlA5IAF1vudn6JBRVI", "title": "Infinite Galois Theory", "by": "Keith Conrad", "year": 2020},
+    {"id": "PLYpVTXjEi1of_6j2oUEAqOo8eLI5qws8i", "title": "Curves over Finite Fields", "by": "Soumya Sankar", "year": 2020},
+    {"id": "PLYpVTXjEi1oflFW1S4oLGoo5rEmQ2ErwW", "title": "Sieves", "by": "Brandon Alberts", "year": 2020},
+    {"id": "PLYpVTXjEi1ocTbHYFDYulYxJ1Sey_Jqob", "title": "p-Adic Functions on Z_p", "by": "Liang Xiao", "year": 2020},
+    {"id": "PLYpVTXjEi1odEHr_-4fkbudq-gQnljSso", "title": "Computations in Number Theory Research", "year": 2020}
+   ]
+  },
+  {
+   "name": "For young learners",
+   "note": "Short, friendly series for kids and anyone starting out.",
+   "courses": [
+    {"id": "PLYpVTXjEi1ochf4g9kFhxnT-aLyy52nup", "title": "Algebra for Kids"},
+    {"id": "PLYpVTXjEi1od9KLgoPVg3JLGeGhw9-vcT", "title": "Geometry for Kids"}
+   ]
+  }
+ ]
+}

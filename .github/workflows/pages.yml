@@ -1,0 +1,44 @@
+# Rebuilds site/courses.json from YouTube, then deploys site/ to GitHub Pages.
+# Nothing is committed back: each run deploys a fresh copy. If YouTube refuses
+# a playlist, the committed site/courses.json supplies that course unchanged.
+name: Refresh courses and deploy
+
+on:
+  push:
+    branches: [main]
+    paths: ["site/**", "scripts/**", ".github/workflows/pages.yml"]
+  schedule:
+    - cron: "41 7 * * *"   # daily
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    # Skipped (not failed) unless the repository variable PAGES_ENABLED=true.
+    # Set on the public repo only, so the private working copy never deploys.
+    if: vars.PAGES_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch playlists
+        run: python scripts/fetch_courses.py
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deployment
+        uses: actions/deploy-pages@v4

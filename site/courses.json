@@ -1,0 +1,2116 @@
+{
+ "generated": "2026-09-22",
+ "groups": [
+  {
+   "name": "Courses",
+   "note": "Full lecture courses, from first proofs to the arithmetic of elliptic curves.",
+   "courses": [
+    {
+     "id": "PLYpVTXjEi1oe1OeAllJpNhFoI4B7Ws8Yl",
+     "title": "An Introduction to the Arithmetic of Elliptic Curves",
+     "by": null,
+     "year": null,
+     "description": "This is an introduction to the theory of elliptic curves. The first video is a gentle introduction to elliptic curves, while the rest of the videos are a graduate course on elliptic curves that I am teaching at UConn in Spring 2021. More information about the course can be found at the course website: https://alozano.clas.uconn.edu/math5020-elliptic-curves/",
+     "videos": [
+      {
+       "id": "A2KNrgiWquU",
+       "title": "What is... an elliptic curve?",
+       "length": "53:28"
+      },
+      {
+       "id": "3rdmxM-3-x4",
+       "title": "Elliptic Curves - Lecture 0 - Class logistics, website, and tentative plan",
+       "length": "25:15"
+      },
+      {
+       "id": "i_jA761hscE",
+       "title": "Elliptic Curves - Lecture 1 - Introduction to diophantine equations",
+       "length": "29:32"
+      },
+      {
+       "id": "fPneJ6DENfY",
+       "title": "Elliptic Curves - Lecture 2 - Number Fields VS Elliptic Curves",
+       "length": "43:29"
+      },
+      {
+       "id": "ZLj4mRpbm6M",
+       "title": "Elliptic Curves - Lecture 3 - An introduction to Algebraic Geometry (part 1)",
+       "length": "27:11"
+      },
+      {
+       "id": "Cmma0uFuRbE",
+       "title": "Elliptic Curves - Lecture 4a - Varieties, function fields, dimension",
+       "length": "44:49"
+      },
+      {
+       "id": "RHAafxS1GPk",
+       "title": "Elliptic Curves - Lecture 4b - Singularities, morphisms",
+       "length": "24:05"
+      },
+      {
+       "id": "Oh_4u-xSCro",
+       "title": "Elliptic Curves - Lecture 5a - Order of vanishing",
+       "length": "11:37"
+      },
+      {
+       "id": "2t13YpFZwn8",
+       "title": "Elliptic Curves - Lecture 5b - Order of vanishing, a key example",
+       "length": "23:13"
+      },
+      {
+       "id": "7rIFdEovu5A",
+       "title": "Elliptic Curves - Lecture 5c - Ramification",
+       "length": "32:34"
+      },
+      {
+       "id": "XrBrmCZ-mcQ",
+       "title": "Elliptic Curves - Lecture 6a - Ramification (continued)",
+       "length": "20:51"
+      },
+      {
+       "id": "-UoizKdoHOU",
+       "title": "Elliptic Curves - Lecture 6b - Divisors and differentials",
+       "length": "48:09"
+      },
+      {
+       "id": "2GFIgs0oPkY",
+       "title": "Elliptic Curves - Lecture 7 - Riemann-Roch, Hurwitz, and Weierstrass equations",
+       "length": "1:14:04"
+      },
+      {
+       "id": "oZsCKkZL2rc",
+       "title": "Elliptic Curves - Lecture 8a - Weierstrass models, discriminant, and j-invariant",
+       "length": "59:45"
+      },
+      {
+       "id": "A9CEN28fhyI",
+       "title": "Elliptic Curves - Lecture 8b - The (geometric) group law",
+       "length": "13:00"
+      },
+      {
+       "id": "uKp4tUi7vqg",
+       "title": "Elliptic Curves - Lecture 9a - The (geometric) group law, continued",
+       "length": "30:30"
+      },
+      {
+       "id": "-c505dKXPeo",
+       "title": "Elliptic Curves - Lecture 9b - The (Picard) group law",
+       "length": "34:53"
+      },
+      {
+       "id": "aIB7WAbHyF4",
+       "title": "Elliptic Curves - Lecture 10a - Isogenies (part 1)",
+       "length": "47:35"
+      },
+      {
+       "id": "GBCzH4eRi4Q",
+       "title": "Elliptic Curves - Lecture 10b - Isogenies (part 2)",
+       "length": "39:57"
+      },
+      {
+       "id": "NccM5hPY2Po",
+       "title": "Elliptic Curves - Lecture 10c - The dual isogeny",
+       "length": "36:54"
+      },
+      {
+       "id": "YSP-IzWbUQ4",
+       "title": "Elliptic Curves - Lecture 11 - The Tate module",
+       "length": "1:15:13"
+      },
+      {
+       "id": "1_-fG2Gqj6Q",
+       "title": "Elliptic Curves - Lecture 12a - The Weil pairing (construction)",
+       "length": "33:16"
+      },
+      {
+       "id": "6WaP_bAOFQo",
+       "title": "Elliptic Curves - Lecture 12b - The Weil pairing (properties)",
+       "length": "35:18"
+      },
+      {
+       "id": "AYP1yz1MlbQ",
+       "title": "(Optional lecture) - Towards a classification of adelic Galois representations of ell. curves (BU)",
+       "length": "1:12:19"
+      },
+      {
+       "id": "fZUpqDhZOOg",
+       "title": "Elliptic Curves - Lecture 13a - The Weil pairing (consequences)",
+       "length": "43:49"
+      },
+      {
+       "id": "gGGYdWQ4x_E",
+       "title": "Elliptic Curves - Lecture 13b - Elliptic curves over finite fields (Hasse's bound)",
+       "length": "29:03"
+      },
+      {
+       "id": "l_GnuenR27k",
+       "title": "Elliptic Curves - Lecture 14a - Elliptic curves over finite fields (an example)",
+       "length": "16:51"
+      },
+      {
+       "id": "j9xwkMtTp3w",
+       "title": "Elliptic Curves - Lecture 14b - Elliptic curves over the complex numbers",
+       "length": "59:00"
+      },
+      {
+       "id": "1c0AtPqhlJA",
+       "title": "Elliptic Curves - Lecture 15 - Introduction to the formal group of an elliptic curve",
+       "length": "1:17:23"
+      },
+      {
+       "id": "DJRqVnzPT90",
+       "title": "Elliptic Curves - Lecture 16a - Formal groups and their homomorphisms",
+       "length": "47:03"
+      },
+      {
+       "id": "tP0UhEirHmg",
+       "title": "Elliptic Curves - Lecture 16b - Formal groups (properties)",
+       "length": "26:02"
+      },
+      {
+       "id": "SUk_8OXtaJQ",
+       "title": "Happy Pi Day! A curious fact about Pi related to elliptic curves",
+       "length": "20:58"
+      },
+      {
+       "id": "Tb7YWADxwZg",
+       "title": "Elliptic Curves - Lecture 17a - Torsion on groups associated to formal groups",
+       "length": "51:11"
+      },
+      {
+       "id": "zZDYpfLGsmk",
+       "title": "Elliptic Curves - Lecture 17b - Elliptic curves over local fields (minimal discriminant)",
+       "length": "19:28"
+      },
+      {
+       "id": "lLlQEotaUDk",
+       "title": "Elliptic Curves - Lecture 18a - Elliptic curves over local fields (the fundamental exact sequence)",
+       "length": "1:01:44"
+      },
+      {
+       "id": "PPshGjsh63E",
+       "title": "Elliptic Curves - Lecture 18b - Points of finite order over local fields (an example)",
+       "length": "11:44"
+      },
+      {
+       "id": "W3BsQ1G0YSo",
+       "title": "Elliptic Curves - Lecture 19a - Elliptic curves over local fields (more on torsion points)",
+       "length": "38:41"
+      },
+      {
+       "id": "0PQMajWoDVY",
+       "title": "Elliptic Curves - Lecture 19b - Elliptic curves over local fields (the action of inertia)",
+       "length": "29:33"
+      },
+      {
+       "id": "LhFUK4PkX18",
+       "title": "Elliptic Curves - Lecture 20a - Elliptic curves over local fields (good and bad reduction)",
+       "length": "47:20"
+      },
+      {
+       "id": "zjlmjL60cfE",
+       "title": "Elliptic Curves - Lecture 20b - Elliptic curves over local fields (potential good reduction and j)",
+       "length": "16:05"
+      },
+      {
+       "id": "OxQe1dVbdlc",
+       "title": "Elliptic Curves - Lecture 20c - Elliptic curves over local fields (the quotient E/E_0)",
+       "length": "15:32"
+      },
+      {
+       "id": "iQRKnt7XWhk",
+       "title": "Elliptic Curves - Lecture 21 - The weak Mordell-Weil theorem (the Kummer pairing)",
+       "length": "54:11"
+      },
+      {
+       "id": "zRrZl7whf-4",
+       "title": "Elliptic Curves - Lecture 22a - Properties of the Kummer pairing",
+       "length": "43:48"
+      },
+      {
+       "id": "uO5FNAKsboI",
+       "title": "Elliptic Curves - Lecture 22b - The maximal abelian extension of exponent m unramified outside S",
+       "length": "31:04"
+      },
+      {
+       "id": "E6oeMxOLz-0",
+       "title": "Elliptic Curves - Lecture 23a - The proof of the weak Mordell-Weil theorem",
+       "length": "23:09"
+      },
+      {
+       "id": "gK0vybba9XA",
+       "title": "Elliptic Curves - Lecture 23b - Heights and the descent theorem",
+       "length": "50:38"
+      },
+      {
+       "id": "tgN47cc6aSY",
+       "title": "Elliptic Curves - Lecture 24a - Torsion points (Nagell-Lutz theorem)",
+       "length": "43:13"
+      },
+      {
+       "id": "d4wh51VW8Q4",
+       "title": "Elliptic Curves - Lecture 24b - The canonical height",
+       "length": "27:00"
+      },
+      {
+       "id": "nen19zfsp98",
+       "title": "Elliptic Curves - Lecture 25a - The canonical height (properties) and Z-linear independence",
+       "length": "50:02"
+      },
+      {
+       "id": "oyhqUFmueLs",
+       "title": "An introduction to group (and Galois) cohomology (part 1)",
+       "length": "1:06:49"
+      },
+      {
+       "id": "oZqNtOqFk24",
+       "title": "An introduction to group (and Galois) cohomology (part 2)",
+       "length": "29:38"
+      },
+      {
+       "id": "uXGsXGRdxkU",
+       "title": "Elliptic Curves - Lecture 25b - Computing the Mordell-Weil group",
+       "length": "20:43"
+      },
+      {
+       "id": "4_PXUVrkEsg",
+       "title": "Elliptic Curves - Lecture 26a - Computing the Mordell-Weil group (Complete 2-Descent)",
+       "length": "36:06"
+      },
+      {
+       "id": "M1eY5KS5tjM",
+       "title": "Elliptic Curves - Lecture 26b - Complete 2-descent over Q",
+       "length": "27:26"
+      },
+      {
+       "id": "5x7kXAGHbjQ",
+       "title": "Elliptic Curves - Lecture 27a - Complete 2-descent over Q: an example",
+       "length": "39:08"
+      },
+      {
+       "id": "P5iVYrknP9M",
+       "title": "Elliptic Curves - Lecture 27b - Selmer and Sha (definitions)",
+       "length": "32:36"
+      },
+      {
+       "id": "T59r4r90U7w",
+       "title": "Elliptic Curves - Lecture 28a - Selmer and Sha: the fundamental sequence",
+       "length": "40:02"
+      },
+      {
+       "id": "g4TP_JukHj4",
+       "title": "Elliptic Curves - Lecture 28b - Twists, homogeneous spaces, and descent",
+       "length": "39:42"
+      },
+      {
+       "id": "9sHf_QdatgE",
+       "title": "Elliptic Curves - Lecture 28c - An example of descent via 2-isogeny",
+       "length": "16:32"
+      }
+     ]
+    },
+    {
+     "id": "PLYpVTXjEi1ofrWLqu27MX_yUyw_pYOokl",
+     "title": "Number Theory and Geometry",
+     "by": null,
+     "year": null,
+     "description": "The contents of the videos in this playlist correspond to material from my book \"Number Theory and Geometry\" which you can find here:\n\nhttps://alozano.clas.uconn.edu/number-theory-and-geometry/",
+     "videos": [
+      {
+       "id": "vYvogcQnPUA",
+       "title": "Number Theory and Geometry -- Euclid's algorithm and Bezout's identity",
+       "length": "42:13"
+      },
+      {
+       "id": "WS_YT4vuV-I",
+       "title": "Common Math Notation",
+       "length": "12:08"
+      },
+      {
+       "id": "ZzxEJQVIq2Q",
+       "title": "Number Theory and Geometry -- Introduction to congruences",
+       "length": "40:14"
+      },
+      {
+       "id": "7RxHyEMkNqs",
+       "title": "Number Theory and Geometry -- Properties of congruences",
+       "length": "37:03"
+      },
+      {
+       "id": "cJNQ_QvWrk0",
+       "title": "Number Theory and Geometry -- Cancellation in congruences",
+       "length": "18:10"
+      },
+      {
+       "id": "-R2IKZO4QLY",
+       "title": "Number Theory and Geometry -- An application of congruences: divisibility tests",
+       "length": "22:27"
+      },
+      {
+       "id": "TpPxzPHgLhc",
+       "title": "Number Theory and Geometry -- Euclid's proof, revisited in terms of congruences",
+       "length": "14:17"
+      },
+      {
+       "id": "M-54lo0uzjY",
+       "title": "Number Theory and Geometry -- Decimal expansions and congruences",
+       "length": "20:26"
+      },
+      {
+       "id": "haf1szSmcQY",
+       "title": "Number Theory and Geometry -- Fermat's little theorem",
+       "length": "46:38"
+      }
+     ]
+    },
+    {
+     "id": "PLYpVTXjEi1odOQGXWGSD-ub2xtYrqW0Lt",
+     "title": "A Quick Introduction to Number Theory",
+     "by": null,
+     "year": null,
+     "description": "This playlist is a quick introduction to the basic concepts of modern number theory, with the goal of introducing the viewer to the tools that are needed to understand how modern cryptographic methods based in number theory work. We discuss divisibility, primes, the Fundamental Theorem of Arithmetic, the greatest common divisor, Euclid's algorithm, congruences, congruence classes, multiplicative inverses, Fermat's little theorem, finite fields, primitive roots, and the discrete log problem.",
+     "videos": [
+      {
+       "id": "P6tGN69ZcXA",
+       "title": "Quick intro to number theory - 1 - Divisibility",
+       "length": "29:35"
+      },
+      {
+       "id": "V1FG-JLYsMc",
+       "title": "Quick intro to number theory - 2 - Euclid's algorithm",
+       "length": "21:23"
+      },
+      {
+       "id": "PFdQkxSSOVk",
+       "title": "Quick intro to number theory - 3 - Congruences",
+       "length": "26:02"
+      },
+      {
+       "id": "nO9WnHQMqgA",
+       "title": "Quick intro to number theory - 4 - Congruence Classes",
+       "length": "28:34"
+      },
+      {
+       "id": "2iR2sKgYfhg",
+       "title": "Quick intro to number theory - 5 - Applications",
+       "length": "20:26"
+      },
+      {
+       "id": "Ly6nw36BBzU",
+       "title": "Quick intro to number theory - 6 - Finite Fields",
+       "length": "18:42"
+      },
+      {
+       "id": "5EI86JExvE4",
+       "title": "Quick intro to number theory - 8 - Multiplicative order and primitive roots",
+       "length": "27:13"
+      },
+      {
+       "id": "0-XBpK49_-w",
+       "title": "Quick intro to number theory - 0 - Trailer",
+       "length": "3:08"
+      },
+      {
+       "id": "97DruU-nvYg",
+       "title": "Quick intro to number theory - 7 - Fermat's little theorem",
+       "length": "21:49"
+      }
+     ]
+    },
+    {
+     "id": "PLYpVTXjEi1oevBzsshJ4nsxgq_rgeaP3T",
+     "title": "A First Course in Abstract Algebra",
+     "by": null,
+     "year": null,
+     "description": "This playlist is a first course in abstract algebra at the undergraduate/college level. For more information about this class, and other resources, please visit:\n\nhttps://alozano.clas.uconn.edu/abstractalgebra1/",
+     "videos": [
+      {
+       "id": "giGi_7aw8PA",
+       "title": "Logistics - 0 -  A First Course in Abstract Algebra",
+       "length": "7:12"
+      },
+      {
+       "id": "OnCteaujZ-w",
+       "title": "What is... Abstract Algebra? - 1 - A First Course in Abstract Algebra",
+       "length": "23:42"
+      },
+      {
+       "id": "y4mYKpM2GJA",
+       "title": "Why is Abstract Algebra interesting? #math #algebra #abstractalgebra #rubikscube",
+       "length": "3:00"
+      },
+      {
+       "id": "WS_YT4vuV-I",
+       "title": "Common Math Notation",
+       "length": "12:08"
+      },
+      {
+       "id": "IMWbqXQVjvw",
+       "title": "The Integers - 2 - A First Course in Abstract Algebra",
+       "length": "34:06"
+      },
+      {
+       "id": "R4xHkvv03l8",
+       "title": "The uniqueness of additive inverses #math #negativenumbers #integers #axioms #proof",
+       "length": "2:38"
+      },
+      {
+       "id": "-xn8-pMlppM",
+       "title": "The Integers Modulo N - 3 - A First Course in Abstract Algebra",
+       "length": "39:36"
+      },
+      {
+       "id": "vJJ9D-G9ydo",
+       "title": "What Is... A Group? - 4 - A First Course in Abstract Algebra",
+       "length": "35:27"
+      },
+      {
+       "id": "oBFcB5Kjqz0",
+       "title": "Example: Verifying Group Axioms - 4b - A First Course in Abstract Algebra",
+       "length": "14:20"
+      },
+      {
+       "id": "8tJqXtkdTlg",
+       "title": "Basic Properties of Groups - 5 - A First Course in Abstract Algebra",
+       "length": "14:06"
+      },
+      {
+       "id": "oPrjcB2EaAQ",
+       "title": "Subgroups - 6 - A First Course in Abstract Algebra",
+       "length": "32:35"
+      },
+      {
+       "id": "Ea0LLaN3_ys",
+       "title": "Cyclic groups - 7 - A First Course in Abstract Algebra",
+       "length": "28:48"
+      },
+      {
+       "id": "oUhYeMAf4NM",
+       "title": "Properties of Cyclic Groups - 8 - A First Course in Abstract Algebra",
+       "length": "41:43"
+      },
+      {
+       "id": "eB2TF19UfVw",
+       "title": "What is a Permutation Group - 9 - A First Course in Abstract Algebra",
+       "length": "42:07"
+      },
+      {
+       "id": "7ChHGZ0km2Y",
+       "title": "Inverse of a Permutation - 9b - A First Course in Abstract Algebra",
+       "length": "6:07"
+      },
+      {
+       "id": "IvthYF_uKZY",
+       "title": "The Alternating Group - 10 - A First Course in Abstract Algebra",
+       "length": "33:19"
+      },
+      {
+       "id": "Etv2ad1dyzI",
+       "title": "A quick intro to dihedral groups #math #abstractalgebra #grouptheory #dihedralgroup #stem",
+       "length": "2:48"
+      },
+      {
+       "id": "Us7M-RdgJUw",
+       "title": "Dihedral Groups - 11 - A First Course in Abstract Algebra",
+       "length": "24:44"
+      },
+      {
+       "id": "XHc8sy5qMI0",
+       "title": "What is... a Lie group?",
+       "length": "3:08"
+      },
+      {
+       "id": "Zd_992qGm80",
+       "title": "Cosets - 12 - A First Course in Abstract Algebra",
+       "length": "40:44"
+      },
+      {
+       "id": "7eQQ3ZnnQnw",
+       "title": "Lagrange's Theorem - 13 - A First Course in Abstract Algebra",
+       "length": "35:23"
+      },
+      {
+       "id": "Y2dnl8KVpzE",
+       "title": "An Example: Hamilton's Quaternions - 14 - A First Course in Abstract Algebra",
+       "length": "32:23"
+      },
+      {
+       "id": "2mJFEOkiYDM",
+       "title": "Fermat's and Euler's Theorems - 15 - A First Course in Abstract Algebra",
+       "length": "20:35"
+      },
+      {
+       "id": "BszV96uicpY",
+       "title": "The order of an element in a group is equal to the order of its inverse #math #grouptheory #order",
+       "length": "2:39"
+      },
+      {
+       "id": "dVjRmgoz9Kg",
+       "title": "The order of a*b and the order of b*a coincide in a group",
+       "length": "3:14"
+      },
+      {
+       "id": "8sEszx9oWbo",
+       "title": "Comparing Groups - 16 - A First Course in Abstract Algebra",
+       "length": "21:22"
+      },
+      {
+       "id": "5hFCW4hC1Jc",
+       "title": "How to compare groups #math #abstractalgebra #grouptheory #isomorphism #stem",
+       "length": "3:00"
+      },
+      {
+       "id": "Sg727H2PPVg",
+       "title": "Isomorphisms - 17 - A First Course in Abstract Algebra",
+       "length": "29:38"
+      },
+      {
+       "id": "wkVnCsgaWgw",
+       "title": "Properties of Isomorphisms - 18 - A First Course in Abstract Algebra",
+       "length": "26:16"
+      },
+      {
+       "id": "35ug0au-cxs",
+       "title": "Cayley's Theorem - 19 - A First Course in Abstract Algebra",
+       "length": "25:43"
+      },
+      {
+       "id": "zKnUlZfsn5s",
+       "title": "If every element has order 1 or 2 then the group is abelian! #math #grouptheory #abstractalgebra",
+       "length": "1:48"
+      },
+      {
+       "id": "VSVf9hqhoV8",
+       "title": "Direct Products - 20 - A First Course in Abstract Algebra",
+       "length": "30:40"
+      },
+      {
+       "id": "A8tm3fpwsgQ",
+       "title": "Internal Direct Products - 21 - A First Course in Abstract Algebra",
+       "length": "33:13"
+      },
+      {
+       "id": "Xc59rmj_a8A",
+       "title": "Quotient Groups and Normal Subgroups - 22 - A First Course in Abstract Algebra",
+       "length": "32:58"
+      },
+      {
+       "id": "l4FMvoaNwPQ",
+       "title": "Properties of Normal Subgroups - 23 - A First Course in Abstract Algebra",
+       "length": "31:43"
+      },
+      {
+       "id": "w2JsJJ-vFTE",
+       "title": "Homomorphisms - 24 - A First Course in Abstract Algebra",
+       "length": "43:50"
+      },
+      {
+       "id": "RYHKC_oeqho",
+       "title": "Example of group homomorphism and kernel",
+       "length": "3:23"
+      },
+      {
+       "id": "tpYyGcoiuz8",
+       "title": "A homomorphism is injective if and only if the kernel is trivial #math #abstractalgebra #grouptheory",
+       "length": "2:08"
+      },
+      {
+       "id": "GZTQPl__5ic",
+       "title": "Examples of Kernels and Quotients - 25 - A First Course in Abstract Algebra",
+       "length": "19:54"
+      },
+      {
+       "id": "0RqINy7bnxM",
+       "title": "Noether's Isomorphism Theorems - 26 - A First Course in Abstract Algebra",
+       "length": "24:41"
+      },
+      {
+       "id": "IXR_u7AnLVE",
+       "title": "The Correspondence Theorem - 27 - A First Course in Abstract Algebra",
+       "length": "20:38"
+      },
+      {
+       "id": "GtQuVobvzeo",
+       "title": "An Example: More about Quaternions - 28 - A First Course in Abstract Algebra",
+       "length": "32:53"
+      },
+      {
+       "id": "ngLKylwSN7w",
+       "title": "Every abelian group of order 51 is cyclic",
+       "length": "4:36"
+      },
+      {
+       "id": "rgF6N4jLxPw",
+       "title": "p-Groups - 29 - A First Course in Abstract Algebra",
+       "length": "34:43"
+      },
+      {
+       "id": "dZOa7Vdw7d4",
+       "title": "p-Primary Components - 30 - A First Course in Abstract Algebra",
+       "length": "21:26"
+      },
+      {
+       "id": "ZKwUS7y1vWE",
+       "title": "Finite Abelian Groups - 31 - A First Course in Abstract Algebra",
+       "length": "30:47"
+      },
+      {
+       "id": "i1H5hENNFiY",
+       "title": "Finitely generated abelian groups and elliptic curves #math #abstractalgebra #numbertheory #stem",
+       "length": "2:55"
+      },
+      {
+       "id": "5T18K8DpTO0",
+       "title": "Group Actions - 32 - A First Course in Abstract Algebra",
+       "length": "32:38"
+      },
+      {
+       "id": "9SjSZjopq7I",
+       "title": "Properties of Group Actions - 33 - A First Course in Abstract Algebra",
+       "length": "36:39"
+      },
+      {
+       "id": "WdqaNBQRgLQ",
+       "title": "The Orbit-Stabilizer Theorem - 34 - A First Course in Abstract Algebra",
+       "length": "16:48"
+      },
+      {
+       "id": "UhqGSqHW7tc",
+       "title": "The Class Equation - 35 - A First Course in Abstract Algebra",
+       "length": "24:59"
+      },
+      {
+       "id": "SDeS1A_mlJw",
+       "title": "Consequences of the Class Equation - 36 - A First Course in Abstract Algebra",
+       "length": "14:38"
+      },
+      {
+       "id": "ii8mjX4ZATk",
+       "title": "Introduction to the Sylow Theorems - 37 - A First Course in Abstract Algebra",
+       "length": "8:41"
+      },
+      {
+       "id": "L3bNXT81ab4",
+       "title": "Cauchy's Theorem - 38 - A First Course in Abstract Algebra",
+       "length": "18:07"
+      },
+      {
+       "id": "P3Fa7ZKib7c",
+       "title": "The First Sylow Theorem - 39 - A First Course in Abstract Algebra",
+       "length": "24:34"
+      },
+      {
+       "id": "s88IFwvDJA8",
+       "title": "The Sylow Theorems (Examples) - 40 - A First Course in Abstract Algebra",
+       "length": "30:24"
+      },
+      {
+       "id": "09JE3R76FWs",
+       "title": "Normalizers - 41 - A First Course in Abstract Algebra",
+       "length": "31:42"
+      },
+      {
+       "id": "7lQjefit-6g",
+       "title": "What is... the Inverse Galois Problem? #math #grouptheory #galois #openproblem #stem",
+       "length": "2:32"
+      },
+      {
+       "id": "lV-yKnXLX30",
+       "title": "The Second Sylow Theorem - 42 - A First Course in Abstract Algebra",
+       "length": "16:59"
+      },
+      {
+       "id": "jdMYHqox5rA",
+       "title": "The Third Sylow Theorem - 43 - A First Course in Abstract Algebra",
+       "length": "15:14"
+      },
+      {
+       "id": "GLozgq0E348",
+       "title": "My Favorite Proof in Abstract Algebra",
+       "length": "5:51"
+      },
+      {
+       "id": "2fKOihaf7cM",
+       "title": "Using the Sylow Theorems - 44 - A First Course in Abstract Algebra",
+       "length": "32:20"
+      },
+      {
+       "id": "n_w_J48oAwU",
+       "title": "The many, MANY, applications of group theory",
+       "length": "3:34"
+      }
+     ]
+    },
+    {
+     "id": "PLYpVTXjEi1odgDJEAYZp-2k0cpA5woBZF",
+     "title": "Abstract Algebra 2",
+     "by": null,
+     "year": null,
+     "description": "In this playlist I am going to include material from a second course in abstract algebra, which covers some review of groups, some more advanced topics in group theory (e.g., semi-direct products), ring theory, and some abstract linear algebra.",
+     "videos": [
+      {
+       "id": "UAl7YuWXjD0",
+       "title": "The inverse of a canonical isomorphism",
+       "length": "4:55"
+      },
+      {
+       "id": "kZ3IMvT114U",
+       "title": "When are two polynomials \"orthogonal\"?",
+       "length": "3:22"
+      },
+      {
+       "id": "SSPbgRQCqUo",
+       "title": "Derivatives via matrix multiplication",
+       "length": "4:27"
+      },
+      {
+       "id": "zLwcJes9afQ",
+       "title": "EIGENSTUFF - Eigenvectors, eigenvalues, and eigenspaces",
+       "length": "29:46"
+      },
+      {
+       "id": "RmPhtPPKR9U",
+       "title": "Irreducibility criteria in integral domains",
+       "length": "33:59"
+      },
+      {
+       "id": "w4VgvJWr9Vg",
+       "title": "Zorn's Lemma in Abstract Algebra",
+       "length": "30:47"
+      },
+      {
+       "id": "t5zgF74Pa80",
+       "title": "What is... a semi-direct product of groups?",
+       "length": "5:39"
+      },
+      {
+       "id": "Njq_sPMt1Dg",
+       "title": "A method to compute the commutator subgroup",
+       "length": "4:05"
+      },
+      {
+       "id": "IanHAQFCss4",
+       "title": "The commutator subgroup is a normal subgroup",
+       "length": "3:18"
+      },
+      {
+       "id": "_A6QGorCcac",
+       "title": "A quotient group of the affine group",
+       "length": "4:44"
+      },
+      {
+       "id": "coizXPofg9Q",
+       "title": "Left and right cosets, and normal subgroups",
+       "length": "3:50"
+      },
+      {
+       "id": "85BIg4rDwDE",
+       "title": "The affine group in abstract algebra #math #abstractalgebra #grouptheory #geometry #stem",
+       "length": "2:56"
+      }
+     ]
+    },
+    {
+     "id": "PLYpVTXjEi1ocryECsRHKrOzryw8YamASj",
+     "title": "Introduction to Linear Algebra",
+     "by": null,
+     "year": null,
+     "description": "This is a series of introductory videos to topics in linear algebra.",
+     "videos": [
+      {
+       "id": "4WVBLRiudi8",
+       "title": "Let's learn how to row reduce matrices because it's a FUNDAMENTAL skill in linear algebra! #math",
+       "length": "2:53"
+      },
+      {
+       "id": "WS_YT4vuV-I",
+       "title": "Common Math Notation",
+       "length": "12:08"
+      },
+      {
+       "id": "XPtQ1nuOzVc",
+       "title": "In this video we learn how to analyze a row reduced echelon form (RREF) #math #linearalgebra",
+       "length": "2:28"
+      },
+      {
+       "id": "wTYfMvgcG6s",
+       "title": "What happens geometrically when we are doing row reduction? #math #linearalgebra",
+       "length": "2:25"
+      },
+      {
+       "id": "fRqkvk8LEvw",
+       "title": "The inverse map of a linear map, and the inverse matrix",
+       "length": "32:27"
+      },
+      {
+       "id": "Ys7poEtVMgE",
+       "title": "The INVERTIBLE matrix theorem",
+       "length": "3:17"
+      },
+      {
+       "id": "kiM3o7egX3k",
+       "title": "An introduction to determinants of nxn matrices",
+       "length": "22:30"
+      },
+      {
+       "id": "Pd_aQGduo90",
+       "title": "How to compute determinants of 2x2 and 3x3 matrices",
+       "length": "3:48"
+      },
+      {
+       "id": "HrMJke2on9U",
+       "title": "Linear algebra review and problems on linear systems, row reduction, and linear transformations",
+       "length": "1:10:26"
+      },
+      {
+       "id": "njjWbGjmJ3g",
+       "title": "What is... a kernel? What is... a null space?",
+       "length": "4:53"
+      },
+      {
+       "id": "jHsojKVCzns",
+       "title": "Let's see how to compute the cross product of two vectors in an example #math #crossproduct #vectors",
+       "length": "2:01"
+      },
+      {
+       "id": "h-8JjNx8avo",
+       "title": "An example of finding eigenvectors and eigenvalues",
+       "length": "3:50"
+      },
+      {
+       "id": "1LXnF92yE7I",
+       "title": "An example of matrix diagonalization",
+       "length": "8:09"
+      },
+      {
+       "id": "kZ3IMvT114U",
+       "title": "When are two polynomials \"orthogonal\"?",
+       "length": "3:22"
+      },
+      {
+       "id": "vFu53LEswGc",
+       "title": "What is... the Gram-Schmidt process?",
+       "length": "3:58"
+      },
+      {
+       "id": "DgkTeTWkikI",
+       "title": "Why do we diagonalize matrices?",
+       "length": "3:12"
+      },
+      {
+       "id": "uOTLXBib3dE",
+       "title": "What's the difference between the cross product and the Gram-Schmidt process?",
+       "length": "2:37"
+      },
+      {
+       "id": "ZQZZ3sD-pQs",
+       "title": "You need the geometric intuition of R^3 precisely to have some sense of abstract vector spaces #math",
+       "length": "2:52"
+      },
+      {
+       "id": "mwIT5GQ9t30",
+       "title": "Coordinate Systems in Linear Algebra",
+       "length": "48:36"
+      },
+      {
+       "id": "FW1AIYsoz2M",
+       "title": "Derivatives and Integrals of polynomials via matrix multiplication, linear algebra #math #integral",
+       "length": "2:29"
+      }
+     ]
+    },
+    {
+     "id": "PLYpVTXjEi1odSM1-P8QR_tlJfQCsK2Qen",
+     "title": "Multi-Variable Calculus",
+     "by": null,
+     "year": null,
+     "description": "This is a course on multi-variable calculus. It assumes single-variable calculus. The videos were recorded during a course on multivariable calculus that I taught at UConn in Spring 2026.",
+     "videos": [
+      {
+       "id": "IAKwooA9yvc",
+       "title": "What is Multi-Variable Calculus all about?",
+       "length": "6:25"
+      },
+      {
+       "id": "PEZF_YyODHE",
+       "title": "Teaching a large lecture of Calculus 3, multivariable calculus is daunting but also really exciting!",
+       "length": "2:03"
+      },
+      {
+       "id": "WS_YT4vuV-I",
+       "title": "Common Math Notation",
+       "length": "12:08"
+      },
+      {
+       "id": "DwPQkYug858",
+       "title": "Multivariable Calculus - 1 - 3D Space",
+       "length": "38:13"
+      },
+      {
+       "id": "4wP0ujavol8",
+       "title": "Multivariable Calculus - 2 - Vectors",
+       "length": "10:28"
+      },
+      {
+       "id": "O6tYOutehN8",
+       "title": "Multivariable Calculus - 3 - More on vectors",
+       "length": "14:14"
+      },
+      {
+       "id": "ph0HZirqzJg",
+       "title": "Why are vectors important? An application of vectors",
+       "length": "6:24"
+      },
+      {
+       "id": "dMAT0z0RuMk",
+       "title": "Multivariable Calculus - 4 - The Dot Product",
+       "length": "19:14"
+      },
+      {
+       "id": "7assVkV5NSg",
+       "title": "How does the dot product come about?",
+       "length": "4:11"
+      },
+      {
+       "id": "TUNR1Q-xZsM",
+       "title": "The orthogonal projection using the dot product",
+       "length": "4:41"
+      },
+      {
+       "id": "Pd_aQGduo90",
+       "title": "How to compute determinants of 2x2 and 3x3 matrices",
+       "length": "3:48"
+      },
+      {
+       "id": "wo1gJ5I_SVM",
+       "title": "Multivariable Calculus - 5 - The Cross Product",
+       "length": "22:54"
+      },
+      {
+       "id": "jHsojKVCzns",
+       "title": "Let's see how to compute the cross product of two vectors in an example #math #crossproduct #vectors",
+       "length": "2:01"
+      },
+      {
+       "id": "P__XmcKwAtg",
+       "title": "Multivariable Calculus - 6 - Equations of Lines",
+       "length": "30:39"
+      },
+      {
+       "id": "KtNmh9F3X2s",
+       "title": "Multivariable Calculus - 7 - Planes",
+       "length": "40:09"
+      },
+      {
+       "id": "6mfHgGLiYFo",
+       "title": "Multivariable Calculus - 8 - Quicker Review of Lines and Planes",
+       "length": "20:49"
+      },
+      {
+       "id": "yEpFTQg5dIw",
+       "title": "How to sketch parabolas, ellipses, and hyperbolas",
+       "length": "3:12"
+      },
+      {
+       "id": "oRMPWAFah10",
+       "title": "Multivariable Calculus - 9 - Cylinders and Quadrics",
+       "length": "37:02"
+      },
+      {
+       "id": "6D4wgxQ9fn0",
+       "title": "Sketching the graph of a hyperbolic paraboloid #math #calculus #multivariablecalculus #graph #stem",
+       "length": "2:02"
+      },
+      {
+       "id": "VRgblTvcOIg",
+       "title": "How to sketch a mathematical torus #math #torus #graph #3dgraphics #graphsketching",
+       "length": "2:09"
+      },
+      {
+       "id": "SpGXoYh-c5Y",
+       "title": "Earth is a Sphere: Aristotle's Proof",
+       "length": "3:48"
+      },
+      {
+       "id": "gLGMhJUCrJ8",
+       "title": "Multivariable Calculus - 10 - More on Quadrics",
+       "length": "7:16"
+      },
+      {
+       "id": "w3NylxcJmpE",
+       "title": "Multivariable Calculus - 11 - Functions of Several Variables",
+       "length": "36:18"
+      },
+      {
+       "id": "pKpm8ION-EA",
+       "title": "Multivariable Calculus - 12 - Partial Derivatives",
+       "length": "7:19"
+      },
+      {
+       "id": "t9KcwWGgx5c",
+       "title": "Multivariable Calculus - 13 - More on Partial Derivatives",
+       "length": "31:48"
+      },
+      {
+       "id": "lqP1_Zod1YQ",
+       "title": "Multivariable Calculus - 14 - Tangent Planes and Linear Approximations",
+       "length": "24:17"
+      },
+      {
+       "id": "CkvAi0NZ6eQ",
+       "title": "Here is an example of how to find the tangent plane to the graph of a function of two vars #math",
+       "length": "2:22"
+      },
+      {
+       "id": "jeqGe4nIJJY",
+       "title": "How to use a tangent plane as a linear approximation to a function... to approximate a square root",
+       "length": "1:58"
+      },
+      {
+       "id": "4RHxMNURQVs",
+       "title": "Multivariable Calculus - 15 - Quick Intro to the Chain Rule",
+       "length": "3:50"
+      },
+      {
+       "id": "nIFjeQzVVlI",
+       "title": "Multivariable Calculus - 16 - The Chain Rule -- Examples",
+       "length": "17:34"
+      },
+      {
+       "id": "3u7ZDkiSC7A",
+       "title": "Multivariable Calculus - 17 - Directional Derivatives",
+       "length": "31:16"
+      },
+      {
+       "id": "h1ADBBj4suI",
+       "title": "Multivariable Calculus - 18 - Minimum and Maximum Values",
+       "length": "11:58"
+      },
+      {
+       "id": "a60XEQ1jWco",
+       "title": "Multivariable Calculus - 19 - More on Min and Max Values",
+       "length": "30:28"
+      },
+      {
+       "id": "xnryLsiQJA0",
+       "title": "Multivariable Calculus - 20 - Lagrange Multipliers",
+       "length": "22:29"
+      },
+      {
+       "id": "_-1kqYfnSGg",
+       "title": "An example of \"Lagrange Multipliers\"",
+       "length": "7:39"
+      },
+      {
+       "id": "MjHMO4yHj6M",
+       "title": "An example of Lagrange multipliers: rectangle with largest area and fixed perimeter",
+       "length": "3:17"
+      },
+      {
+       "id": "VWUngyaHWoM",
+       "title": "If the surface area is fixed, what are the dimensions of a (closed) box that maximizes volume? #math",
+       "length": "2:59"
+      },
+      {
+       "id": "lHxtIaLGD6s",
+       "title": "Multivariable Calculus - 21 - Double Integrals over Rectangles",
+       "length": "33:37"
+      },
+      {
+       "id": "YdX7m5ToryM",
+       "title": "Multivariable Calculus - 22 - Integrals over Regions (of Type I and II)",
+       "length": "28:07"
+      },
+      {
+       "id": "_w7hlDjSW-c",
+       "title": "Multivariable Calculus - 23 - Exam 1 Review Problems",
+       "length": "28:12"
+      },
+      {
+       "id": "5Ne-Vk9dp8w",
+       "title": "Multivariable Calculus - 24 - More on Integrals over Regions",
+       "length": "11:35"
+      },
+      {
+       "id": "4dZI5ZDuCEE",
+       "title": "Knowing how to switch the order of integration can be critical! #math #calculus #doubleintegrals",
+       "length": "2:22"
+      },
+      {
+       "id": "NFjR8Vth-6U",
+       "title": "Multivariable Calculus - 25 - Double Integrals in Polar Coordinates",
+       "length": "31:17"
+      },
+      {
+       "id": "qWIrBFGJP-I",
+       "title": "Multivariable Calculus - 26 - More on Polar Coordinates",
+       "length": "19:42"
+      },
+      {
+       "id": "n2Mj-IuVJG0",
+       "title": "Multivariable Calculus - 27 - Triple Integrals",
+       "length": "35:59"
+      },
+      {
+       "id": "y4UvSJ9kPjg",
+       "title": "Can you find the volume of this tetrahedron (not regular!) using triple integrals? #math #calculus",
+       "length": "2:15"
+      },
+      {
+       "id": "SHbspd-ythk",
+       "title": "Multivariable Calculus - 28 - More on Triple Integrals",
+       "length": "30:11"
+      },
+      {
+       "id": "6s-bp1c46wk",
+       "title": "Multivariable Calculus - 29 - Triple Integrals in Cylindrical Coordinates",
+       "length": "19:10"
+      },
+      {
+       "id": "uHDjqe-EjYM",
+       "title": "Multivariable Calculus - 30 - More on Cylindrical Coordinates",
+       "length": "31:28"
+      },
+      {
+       "id": "Ajda1OXoyrU",
+       "title": "Multivariable Calculus - 31 - Triple Integrals in Spherical Coordinates",
+       "length": "28:09"
+      },
+      {
+       "id": "wXc_wfGtDHQ",
+       "title": "Let's figure out the total volume of an ice-cream cone, including the cone and ice-cream on top!",
+       "length": "2:33"
+      },
+      {
+       "id": "hAA6cguk5_M",
+       "title": "Multivariable Calculus - 32 - Change of Variables",
+       "length": "46:31"
+      },
+      {
+       "id": "zTRSxFvqjWc",
+       "title": "Multivariable Calculus - 33 - Change of Variables and their Jacobians",
+       "length": "18:08"
+      },
+      {
+       "id": "uoLdzcny-gA",
+       "title": "Multivariable Calculus - 34 - Review Exercises on Double and Triple Integrals",
+       "length": "41:04"
+      },
+      {
+       "id": "XQTQYgKEhas",
+       "title": "Here is an example of how to sketch a solid given by the limits of integration of a triple integral",
+       "length": "2:39"
+      },
+      {
+       "id": "nG91IEBMMcQ",
+       "title": "Do you know how to evaluate this triple integral? The trick is to first describe the solid E #math",
+       "length": "2:44"
+      },
+      {
+       "id": "6f12xaS2Le8",
+       "title": "Multivariable Calculus - 35 - Vector-valued Functions",
+       "length": "33:45"
+      },
+      {
+       "id": "c-Aa2JTolNY",
+       "title": "Multivariable Calculus - 36 - Derivatives and Integrals of Vector-valued Functions",
+       "length": "13:56"
+      },
+      {
+       "id": "0JNdhPKwCoU",
+       "title": "I'm the right \"calculus person\" for this job! Let's model, parametrize and differentiate this curve",
+       "length": "2:37"
+      },
+      {
+       "id": "L0T0-hIcfdA",
+       "title": "In this video I'm going to refine my model for this sketchy curve so it looks more hand drawn! #math",
+       "length": "2:07"
+      },
+      {
+       "id": "fzLDKVIWwg4",
+       "title": "Multivariable Calculus - 37 - Arc Length",
+       "length": "11:50"
+      },
+      {
+       "id": "XvT9U1Eq6Jk",
+       "title": "The arc-length is constant in this family of graphs",
+       "length": "3:22"
+      },
+      {
+       "id": "UVaprJjnbew",
+       "title": "Multivariable Calculus - 38 - Exam 2 Review",
+       "length": "55:40"
+      },
+      {
+       "id": "4Nf1_vcUt-M",
+       "title": "Multivariable Calculus - 39 - Line Integrals",
+       "length": "52:58"
+      },
+      {
+       "id": "GdlS3KTRV4Q",
+       "title": "Multivariable Calculus - 40 - Line Integrals... in Space",
+       "length": "8:47"
+      },
+      {
+       "id": "-vfeM4TXLkw",
+       "title": "Multivariable Calculus - 41 - Vector Fields",
+       "length": "1:04:14"
+      },
+      {
+       "id": "Ox7HXASUTOk",
+       "title": "ABSOLUTELY AMAZING! I get the chills looking at the travel path of Orion #math #physics",
+       "length": "1:56"
+      },
+      {
+       "id": "7FSM5lXr16A",
+       "title": "Multiveriable Calculus - 42 - The Fundamental Theorem of Line Integrals",
+       "length": "47:04"
+      },
+      {
+       "id": "Nn7QHayQySY",
+       "title": "Multivariable Calculus - 43 - Green's Theorem",
+       "length": "5:37"
+      },
+      {
+       "id": "Pkm-Vci_xzM",
+       "title": "Multivariable Calculus - 44 - Green's Theorem (part 2)",
+       "length": "30:34"
+      },
+      {
+       "id": "YziB_v4giWQ",
+       "title": "Multivariable Calculus - 45 - Curl and Divergence",
+       "length": "29:59"
+      },
+      {
+       "id": "iAqzQ_nHgRc",
+       "title": "Multivariable Calculus - 46 - Parametric Surfaces",
+       "length": "55:40"
+      },
+      {
+       "id": "VweacuX1keg",
+       "title": "Multivariable Calculus - 47 - Surface Area",
+       "length": "13:17"
+      },
+      {
+       "id": "_vB7C3BpzNs",
+       "title": "Multivariable Calculus - 48 - More on Surface Area",
+       "length": "23:19"
+      },
+      {
+       "id": "gix5zXGAhSw",
+       "title": "Multivariable Calculus - 49 - Surface Integrals",
+       "length": "44:02"
+      },
+      {
+       "id": "jhiCteAIOmE",
+       "title": "Multivariable Calculus - 50 - More on Surface Integrals",
+       "length": "38:42"
+      },
+      {
+       "id": "flGyGnPnfIg",
+       "title": "Multivariable Calculus - 51 - Stokes' Theorem",
+       "length": "26:20"
+      },
+      {
+       "id": "av2zviouorI",
+       "title": "Multivariable Calculus - 52 - More on Stokes' Theorem",
+       "length": "35:51"
+      },
+      {
+       "id": "b-h2hG1qNa0",
+       "title": "Multivariable Calculus - 53 - The Divergence Theorem",
+       "length": "21:32"
+      },
+      {
+       "id": "GjqkfGZ8Qaw",
+       "title": "Multivariable Calculus - 54 - Review Problems for Vector Calculus",
+       "length": "45:05"
+      },
+      {
+       "id": "l-lesk9bfE4",
+       "title": "Multivariable Calculus - 55 - More Review Problems on Vector Calculus",
+       "length": "19:42"
+      }
+     ]
+    },
+    {
+     "id": "PLYpVTXjEi1oe_KhAKch4vX73GEEGLlSQR",
+     "title": "Set Theory, Logic, and Proofs",
+     "by": null,
+     "year": null,
+     "description": "This playlist contains videos related to set theory, logic, and an introduction to proofs and proof writing",
+     "videos": [
+      {
+       "id": "m2OIcqCH_eM",
+       "title": "Example of proof: Continuity",
+       "length": "4:17"
+      },
+      {
+       "id": "vXid45gGrrg",
+       "title": "The combinatorics of the birthday problem",
+       "length": "3:26"
+      },
+      {
+       "id": "BtLjNE7Mpyg",
+       "title": "Example of an \"if and only if\" proof",
+       "length": "3:51"
+      },
+      {
+       "id": "AKpcXTBXkvE",
+       "title": "Example of a *wrong* proof by induction",
+       "length": "4:08"
+      },
+      {
+       "id": "F0Z_woJ6_K4",
+       "title": "Constructive vs non-constructive proofs",
+       "length": "3:51"
+      },
+      {
+       "id": "0rlh5-20Sr8",
+       "title": "Example of a non-constructive proof, using induction",
+       "length": "3:56"
+      },
+      {
+       "id": "tGrTXvV1gyk",
+       "title": "Example of proof and irrational numbers: Contradiction",
+       "length": "2:22"
+      },
+      {
+       "id": "1xR_G-PK5ZE",
+       "title": "Example of proof: non-constructive",
+       "length": "2:56"
+      },
+      {
+       "id": "5H6mRGbRMkg",
+       "title": "A Chinese proof of Pythagoras",
+       "length": "1:59"
+      },
+      {
+       "id": "KPQUGvc4UM4",
+       "title": "An example of proof by contradiction",
+       "length": "2:39"
+      },
+      {
+       "id": "8zNpx62gBMs",
+       "title": "Two proofs of 1=0.999...",
+       "length": "2:42"
+      },
+      {
+       "id": "LNnw_B3wf-w",
+       "title": "An example of how to write a mathematical proof of an inequality of real numbers",
+       "length": "2:21"
+      },
+      {
+       "id": "g-70z9pZaqA",
+       "title": "An example of how to write a proof using the contrapositive method",
+       "length": "3:03"
+      },
+      {
+       "id": "MYPEL3-8Ua4",
+       "title": "An example of how to write a proof using the direct method",
+       "length": "2:22"
+      },
+      {
+       "id": "TRW2xk0CBe4",
+       "title": "An example in set theory of sets given as an infinite union or intersection",
+       "length": "6:41"
+      },
+      {
+       "id": "fiQmQnwInhg",
+       "title": "A set theory example of intersections and cartesian producs",
+       "length": "4:19"
+      }
+     ]
+    },
+    {
+     "id": "PLYpVTXjEi1ofp102VpgSGe-pxFXWJI2j8",
+     "title": "Hypergeometric Functions, Character Sums and Applications",
+     "by": null,
+     "year": null,
+     "description": "",
+     "videos": [
+      {
+       "id": "clBXFeQiwtE",
+       "title": "Ling Long - Hypergeometric Functions, Character Sums and Applications - Lecture 1",
+       "length": "50:32"
+      },
+      {
+       "id": "2zbQK6dIMT8",
+       "title": "Ling Long - Hypergeometric Functions, Character Sums and Applications - Lecture 2",
+       "length": "39:47"
+      },
+      {
+       "id": "_gDFFK6Nh2s",
+       "title": "Ling Long - Hypergeometric Functions, Character Sums and Applications - Lecture 3",
+       "length": "45:33"
+      },
+      {
+       "id": "ySu4qrg-aiU",
+       "title": "Ling Long - Hypergeometric Functions, Character Sums and Applications - Lecture 4",
+       "length": "53:04"
+      },
+      {
+       "id": "BD81r5lDZ1U",
+       "title": "Ling Long - Hypergeometric Functions, Character Sums and Applications - Lecture 5",
+       "length": "50:31"
+      },
+      {
+       "id": "mccdt7lQXek",
+       "title": "Ling Long - Hypergeometric Functions, Character Sums and Applications - Lecture 6",
+       "length": "45:12"
+      },
+      {
+       "id": "5L0nROwRKEs",
+       "title": "Ling Long - Hypergeometric Functions, Character Sums and Applications - Lecture 7",
+       "length": "48:24"
+      },
+      {
+       "id": "xqJHZVby0no",
+       "title": "Ling Long - Hypergeometric Functions, Character Sums and Applications - Lecture 8",
+       "length": "44:49"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "CTNT mini-courses",
+   "note": "Week-long mini-courses from the Connecticut Summer School in Number Theory.",
+   "courses": [
+    {
+     "id": "PLYpVTXjEi1ocH005_i6IhFlXjUj1BziRX",
+     "title": "Elliptic Curve Cryptography",
+     "by": "Álvaro Lozano-Robledo",
+     "year": 2026,
+     "description": "These videos are part of a mini-course at UConn during CTNT 2026. For more information about this course, see https://ctnt-summer.math.uconn.edu/summer-school-26/\n\nThis program was generously funded by the National Science Foundation, the National Security Agency, UConn's MSRC, the Number Theory Foundation, and the Journal of Number Theory.",
+     "videos": [
+      {
+       "id": "UoTxzYZvYL0",
+       "title": "Elliptic Curve Cryptography - 1 (by Alvaro Lozano-Robledo)",
+       "length": "53:38"
+      },
+      {
+       "id": "FJhrSTxNDuk",
+       "title": "Elliptic Curve Cryptography - 2 (by Alvaro Lozano-Robledo)",
+       "length": "57:59"
+      },
+      {
+       "id": "QT_197B1FQc",
+       "title": "Elliptic Curve Cryptography - 3 (by Alvaro Lozano-Robledo)",
+       "length": "57:39"
+      },
+      {
+       "id": "xAf9AybJKls",
+       "title": "Elliptic Curve Cryptography - 4 (by Alvaro Lozano-Robledo)",
+       "length": "43:53"
+      },
+      {
+       "id": "loVsx5nkra4",
+       "title": "Quantum Computing and Post-Quantum Cryptography (by Christelle Vincent)",
+       "length": "56:47"
+      },
+      {
+       "id": "v6_QpmrYOnU",
+       "title": "Elliptic Curves and Isogeny-Based Cryptography - by Sarah Arpin (Virginia Tech)",
+       "length": "44:17"
+      }
+     ]
+    },
+    {
+     "id": "PLYpVTXjEi1oeWPDe0BzWO7ZVKfL6wDIdQ",
+     "title": "Abelian Extensions and Kronecker–Weber",
+     "by": "Lori Watson",
+     "year": 2026,
+     "description": "This is a mini-course that Lori Watson (Trinity College) taught at UConn during CTNT 2026. For more information about this course, see https://ctnt-summer.math.uconn.edu/summer-school-26/\n\nThis program was generously funded by the National Science Foundation, the National Security Agency, UConn's MSRC, the Number Theory Foundation, and the Journal of Number Theory.",
+     "videos": [
+      {
+       "id": "pagQWvqqofI",
+       "title": "Abelian Extensions and Kronecker-Weber - 1 (by Lori Watson)",
+       "length": "1:07:11"
+      },
+      {
+       "id": "7O6Ojz1qYKw",
+       "title": "Abelian Extensions and Kronecker-Weber - 2 (by Lori Watson)",
+       "length": "59:14"
+      },
+      {
+       "id": "8T-uS9PPESk",
+       "title": "Abelian Extensions and Kronecker-Weber - 3 (by Lori Watson)",
+       "length": "54:56"
+      },
+      {
+       "id": "79MZmE_gTp8",
+       "title": "Abelian Extensions and Kronecker-Weber - 4 (by Lori Watson)",
+       "length": "45:14"
+      }
+     ]
+    },
+    {
+     "id": "PLYpVTXjEi1ofEXAtkSaVdGcbOPjv2XHOr",
+     "title": "Analytic Aspects of Quadratic Forms",
+     "by": "Keith Conrad",
+     "year": 2026,
+     "description": "This is a mini-course that Keith Conrad taught at UConn during CTNT 2026. For more information about this course, see https://ctnt-summer.math.uconn.edu/summer-school-26/\n\nThis program was generously funded by the National Science Foundation, the National Security Agency, UConn's MSRC, the Number Theory Foundation, and the Journal of Number Theory.",
+     "videos": [
+      {
+       "id": "kjteeSvMVxw",
+       "title": "Analytic Aspects of Quadratic Forms - 1 (by Keith Conrad)",
+       "length": "50:18"
+      },
+      {
+       "id": "B_r7OePrK1k",
+       "title": "Analytic Aspects of Quadratic Forms - 2 (by Keith Conrad)",
+       "length": "51:44"
+      },
+      {
+       "id": "o3n_GFlFUnM",
+       "title": "Analytic Aspects of Quadratic Forms - 3 (by Keith Conrad)",
+       "length": "54:44"
+      },
+      {
+       "id": "E5C0HmSuxaY",
+       "title": "Analytic Aspects of Quadratic Forms - 4 (by Keith Conrad)",
+       "length": "51:06"
+      }
+     ]
+    },
+    {
+     "id": "PLYpVTXjEi1oezwlif5JnyY72g3qCntqkw",
+     "title": "Magma and the LMFDB",
+     "by": "Eran Assaf",
+     "year": 2026,
+     "description": "These videos are part of a mini-course at UConn during CTNT 2026 taught by Eran Assaf (MIT). For more information about this course, see https://ctnt-summer.math.uconn.edu/summer-school-26/\n\nThis program was generously funded by the National Science Foundation, the National Security Agency, UConn's MSRC, the Number Theory Foundation, and the Journal of Number Theory.",
+     "videos": [
+      {
+       "id": "p0g4n210Ej4",
+       "title": "Magma and the LMFDB - 1 (by Eran Assaf)",
+       "length": "56:39"
+      },
+      {
+       "id": "cZEJBmiNa_4",
+       "title": "Magma and the LMFDB - 2 (by Eran Assaf)",
+       "length": "56:20"
+      },
+      {
+       "id": "rBu4l0suo7E",
+       "title": "Magma and the LMFDB - 3 (by Eran Assaf)",
+       "length": "48:21"
+      },
+      {
+       "id": "lLUHH9iIPVQ",
+       "title": "Magma and the LMFDB - 4 (by Eran Assaf)",
+       "length": "55:11"
+      }
+     ]
+    },
+    {
+     "id": "PLYpVTXjEi1ofzKmhfReVNITVNEhGWslRX",
+     "title": "Introduction to Elliptic Curves",
+     "by": "Álvaro Lozano-Robledo",
+     "year": 2024,
+     "description": "This is one of the lecture series from CTNT 2024 -- the Connecticut Summer School in Number Theory. For more information about the mini courses (slides, notes, etc.), please visit the website for CTNT: https://ctnt-summer.math.uconn.edu/",
+     "videos": [
+      {
+       "id": "Vw7OFGYLj4g",
+       "title": "CTNT 2024 - Introduction to Elliptic Curves (Alvaro Lozano-Robledo) - Lecture 1",
+       "length": "56:19"
+      },
+      {
+       "id": "PDL0ifp5Q5U",
+       "title": "CTNT 2024 - Introduction to Elliptic Curves (Alvaro Lozano-Robledo) - Lecture 2",
+       "length": "50:38"
+      },
+      {
+       "id": "KIyS8yr29Ko",
+       "title": "CTNT 2024 - Introduction to Elliptic Curves (Alvaro Lozano-Robledo) - Lecture 3",
+       "length": "44:47"
+      },
+      {
+       "id": "mSUwK3yQamQ",
+       "title": "CTNT 2024 - Introduction to Elliptic Curves (Alvaro Lozano-Robledo) - Lecture 4",
+       "length": "53:51"
+      }
+     ]
+    },
+    {
+     "id": "PLYpVTXjEi1ocC8MW009Vbqm8qnF0v5eUc",
+     "title": "Class Field Theory",
+     "by": "Christelle Vincent",
+     "year": 2024,
+     "description": "This is one of the lecture series from CTNT 2024 -- the Connecticut Summer School in Number Theory. For more information about the mini courses (slides, notes, etc.), please visit the website for CTNT: https://ctnt-summer.math.uconn.edu/",
+     "videos": [
+      {
+       "id": "yy5GthiZhCg",
+       "title": "CTNT 2024 - Class Field Theory (Christelle Vincent) - Lecture 2",
+       "length": "52:26"
+      },
+      {
+       "id": "NJAtvP7Xeis",
+       "title": "CTNT 2024 - Class Field Theory (Christelle Vincent) - Lecture 1",
+       "length": "50:42"
+      },
+      {
+       "id": "erK9MHnET2c",
+       "title": "CTNT 2024 - Class Field Theory (Christelle Vincent) - Lecture 3",
+       "length": "48:29"
+      },
+      {
+       "id": "psLnxZzVkDc",
+       "title": "CTNT 2024 - Class Field Theory (Christelle Vincent) - Lecture 4",
+       "length": "49:33"
+      }
+     ]
+    },
+    {
+     "id": "PLYpVTXjEi1oe-0uyZKVFORIu0BxAOppKi",
+     "title": "Using Quadratic Reciprocity",
+     "by": "Keith Conrad",
+     "year": 2024,
+     "description": "This is one of the lecture series from CTNT 2024 -- the Connecticut Summer School in Number Theory. For more information about the mini courses (slides, notes, etc.), please visit the website for CTNT: https://ctnt-summer.math.uconn.edu/",
+     "videos": [
+      {
+       "id": "Qi1DNHAIqks",
+       "title": "CTNT 2024 - Using Quadratic Reciprocity (Keith Conrad) - Lecture 1",
+       "length": "48:18"
+      },
+      {
+       "id": "H_2e2Hb9FaA",
+       "title": "CTNT 2024 - Using Quadratic Reciprocity (Keith Conrad) - Lecture 2",
+       "length": "51:51"
+      },
+      {
+       "id": "h4NmlYadP6Q",
+       "title": "CTNT 2024 - Using Quadratic Reciprocity (Keith Conrad) - Lecture 3",
+       "length": "47:31"
+      },
+      {
+       "id": "IxuJnE_i4nw",
+       "title": "CTNT 2024 - Using Quadratic Reciprocity (Keith Conrad) - Lecture 4",
+       "length": "54:50"
+      }
+     ]
+    },
+    {
+     "id": "PLYpVTXjEi1oedAJlSOV4mn9dnuT7rVxO3",
+     "title": "An Introduction to Galois Representations",
+     "by": "Álvaro Lozano-Robledo",
+     "year": 2022,
+     "description": "",
+     "videos": [
+      {
+       "id": "ZN5tZlO-Vhs",
+       "title": "CTNT 2022 - An Introduction to Galois Representations (Lecture 1) - by Alvaro Lozano-Robledo",
+       "length": "54:07"
+      },
+      {
+       "id": "IGT4CqOI5tg",
+       "title": "CTNT 2022 - An Introduction to Galois Representations (Lecture 2) - by Alvaro Lozano-Robledo",
+       "length": "52:57"
+      },
+      {
+       "id": "u63JNTNuNcg",
+       "title": "CTNT 2022 - An Introduction to Galois Representations (Lecture 3) - by Alvaro Lozano-Robledo",
+       "length": "53:17"
+      },
+      {
+       "id": "6kc6J9VVP5M",
+       "title": "CTNT 2022 - An Introduction to Galois Representations (Lecture 4) - by Alvaro Lozano-Robledo",
+       "length": "58:51"
+      }
+     ]
+    },
+    {
+     "id": "PLYpVTXjEi1oemKPsG4VCtOMmtaAagZBbl",
+     "title": "100 Years of Chebotarev Density",
+     "by": "Keith Conrad",
+     "year": 2022,
+     "description": "",
+     "videos": [
+      {
+       "id": "mX7MsC99D0c",
+       "title": "CTNT 2022 - 100 Years of Chebotarev Density (Lecture 1) - by Keith Conrad",
+       "length": "55:07"
+      },
+      {
+       "id": "n7TPljCjkh4",
+       "title": "CTNT 2022 - 100 Years of Chebotarev Density (Lecture 2) - by Keith Conrad",
+       "length": "52:32"
+      },
+      {
+       "id": "IcoOP0uKuUk",
+       "title": "CTNT 2022 - 100 Years of Chebotarev Density (Lecture 3) - by Keith Conrad",
+       "length": "53:22"
+      },
+      {
+       "id": "eava-LrJwJ4",
+       "title": "CTNT 2022 - 100 Years of Chebotarev Density (Lecture 4) - by Keith Conrad",
+       "length": "49:23"
+      }
+     ]
+    },
+    {
+     "id": "PLYpVTXjEi1of_UjHtAOJve7VwLArz5kBX",
+     "title": "Local Fields",
+     "by": "Christelle Vincent",
+     "year": 2022,
+     "description": "",
+     "videos": [
+      {
+       "id": "powGthvIyGQ",
+       "title": "CTNT 2022 - Local Fields (Lecture 1) - by Christelle Vincent",
+       "length": "51:09"
+      },
+      {
+       "id": "hCZZRbH_p2o",
+       "title": "CTNT 2022 - Local Fields (Lecture 2) - by Christelle Vincent",
+       "length": "46:38"
+      },
+      {
+       "id": "-nZfq5y1jGU",
+       "title": "CTNT 2022 - Local Fields (Lecture 3) - by Christelle Vincent",
+       "length": "47:01"
+      },
+      {
+       "id": "q4gwxy6HFU8",
+       "title": "CTNT 2022 - Local Fields (Lecture 4) - by Christelle Vincent",
+       "length": "1:06:23"
+      }
+     ]
+    },
+    {
+     "id": "PLYpVTXjEi1oeT5c5crLMlrKe7wGlCZDqI",
+     "title": "Algebraic Number Theory",
+     "by": "Hanson Smith",
+     "year": 2022,
+     "description": "",
+     "videos": [
+      {
+       "id": "XwdYLBhDg_I",
+       "title": "CTNT 2022 - Algebraic Number Theory (Lecture 1) - by Hanson Smith",
+       "length": "49:08"
+      },
+      {
+       "id": "lv83cN0j0CA",
+       "title": "CTNT 2022 - Algebraic Number Theory (Lecture 2) - by Hanson Smith",
+       "length": "59:45"
+      },
+      {
+       "id": "8RkY8hsoWm4",
+       "title": "CTNT 2022 - Algebraic Number Theory (Lecture 3) - by Hanson Smith",
+       "length": "49:38"
+      },
+      {
+       "id": "mN1rJ-jSb4E",
+       "title": "CTNT 2022 - Algebraic Number Theory (Lecture 4) - by Hanson Smith",
+       "length": "49:58"
+      }
+     ]
+    },
+    {
+     "id": "PLYpVTXjEi1oeB0-WlA5IAF1vudn6JBRVI",
+     "title": "Infinite Galois Theory",
+     "by": "Keith Conrad",
+     "year": 2020,
+     "description": "",
+     "videos": [
+      {
+       "id": "3Q0vjI8383k",
+       "title": "CTNT 2020 - Infinite Galois Theory (by Keith Conrad) - Lecture 1",
+       "length": "49:45"
+      },
+      {
+       "id": "-6q4js1MHoU",
+       "title": "CTNT 2020 - Infinite Galois Theory (by Keith Conrad) - Lecture 2",
+       "length": "53:52"
+      },
+      {
+       "id": "Akq5hfrJdiw",
+       "title": "CTNT 2020 - Infinite Galois Theory (by Keith Conrad) - Lecture 3",
+       "length": "48:43"
+      },
+      {
+       "id": "8VvuP0vOUmc",
+       "title": "CTNT 2020 - Infinite Galois Theory (by Keith Conrad) - Lecture 4",
+       "length": "50:13"
+      }
+     ]
+    },
+    {
+     "id": "PLYpVTXjEi1of_6j2oUEAqOo8eLI5qws8i",
+     "title": "Curves over Finite Fields",
+     "by": "Soumya Sankar",
+     "year": 2020,
+     "description": "",
+     "videos": [
+      {
+       "id": "QrTLOK7evr0",
+       "title": "CTNT 2020 - Curves over Finite Fields (by Soumya Sankar) - Lecture 1",
+       "length": "50:00"
+      },
+      {
+       "id": "mEKrhCvjzhQ",
+       "title": "CTNT 2020 - Curves over Finite Fields (by Soumya Sankar) - Lecture 2",
+       "length": "51:41"
+      },
+      {
+       "id": "FBdmWmuMYNs",
+       "title": "CTNT 2020 - Curves over Finite Fields (by Soumya Sankar) - Lecture 3",
+       "length": "39:28"
+      },
+      {
+       "id": "ZeAxm9g3yjE",
+       "title": "CTNT 2020 - Curves over Finite Fields (by Soumya Sankar) - Lecture 4",
+       "length": "51:54"
+      }
+     ]
+    },
+    {
+     "id": "PLYpVTXjEi1oflFW1S4oLGoo5rEmQ2ErwW",
+     "title": "Sieves",
+     "by": "Brandon Alberts",
+     "year": 2020,
+     "description": "",
+     "videos": [
+      {
+       "id": "uBYLWvynKuc",
+       "title": "CTNT 2020 - Sieves (by Brandon Alberts) - Lecture 1",
+       "length": "55:51"
+      },
+      {
+       "id": "T8GGT3vL3Nc",
+       "title": "CTNT 2020 - Sieves (by Brandon Alberts) - Lecture 2",
+       "length": "52:03"
+      },
+      {
+       "id": "yB7Y_UKy5Cw",
+       "title": "CTNT 2020 - Sieves (by Brandon Alberts) - Lecture 3",
+       "length": "48:26"
+      },
+      {
+       "id": "l1oDoCSWZO4",
+       "title": "CTNT 2020 - Sieves (by Brandon Alberts) - Lecture 4",
+       "length": "55:19"
+      },
+      {
+       "id": "eaFU1y8fczM",
+       "title": "CTNT 2020 - Sieves (by Brandon Alberts) - Lecture 5",
+       "length": "59:57"
+      }
+     ]
+    },
+    {
+     "id": "PLYpVTXjEi1ocTbHYFDYulYxJ1Sey_Jqob",
+     "title": "p-Adic Functions on Z_p",
+     "by": "Liang Xiao",
+     "year": 2020,
+     "description": "",
+     "videos": [
+      {
+       "id": "3uEp4Eao5mE",
+       "title": "CTNT 2020 - p-Adic Functions on Z_p (by Liang Xiao) - Lecture 1",
+       "length": "54:31"
+      },
+      {
+       "id": "Mq1Ap4KfBR8",
+       "title": "CTNT 2020 - p-Adic Functions on Z_p (by Liang Xiao) - Lecture 2",
+       "length": "52:45"
+      },
+      {
+       "id": "-gJP6Z14mF8",
+       "title": "CTNT 2020 - p-Adic Functions on Z_p (by Liang Xiao) - Lecture 3",
+       "length": "53:23"
+      },
+      {
+       "id": "w077PjE0YtE",
+       "title": "CTNT 2020 - p-Adic Functions on Z_p (by Liang Xiao) - Lecture 4",
+       "length": "48:40"
+      },
+      {
+       "id": "NkANUTRX74Y",
+       "title": "CTNT 2020 - p-Adic Functions on Z_p (by Liang Xiao) - Lecture 5",
+       "length": "48:00"
+      }
+     ]
+    },
+    {
+     "id": "PLYpVTXjEi1odEHr_-4fkbudq-gQnljSso",
+     "title": "Computations in Number Theory Research",
+     "by": null,
+     "year": 2020,
+     "description": "This playlist contains videos for my mini course \"Computations in Number Theory Research\", which is part of CTNT 2020 - the Connecticut Summer School and Conference in Number Theory.",
+     "videos": [
+      {
+       "id": "zl4ZYQQ4ou4",
+       "title": "CTNT 2020 - A virtual tour of the LMFDB: the L-functions and Modular Forms DataBase",
+       "length": "38:53"
+      },
+      {
+       "id": "A4j3qbCn1PM",
+       "title": "CTNT 2020 - A virtual tour of SageMath",
+       "length": "47:09"
+      },
+      {
+       "id": "iwhc1JzlPbA",
+       "title": "CTNT 2020 - A virtual tour of Magma",
+       "length": "47:13"
+      },
+      {
+       "id": "iMFjBAE1if0",
+       "title": "CTNT 2020 - Computations in Number Theory (by Alvaro Lozano-Robledo) - Lecture 1",
+       "length": "46:51"
+      },
+      {
+       "id": "fJM__sE70MM",
+       "title": "CTNT 2020 - Computations in Number Theory (by Alvaro Lozano-Robledo) - Lecture 2",
+       "length": "52:55"
+      },
+      {
+       "id": "HPQWG7cwl5M",
+       "title": "CTNT 2020 - Computations in Number Theory (by Alvaro Lozano-Robledo) - Lecture 3",
+       "length": "52:17"
+      },
+      {
+       "id": "8e4pvBvQByY",
+       "title": "CTNT 2020 - Computations in Number Theory (by Alvaro Lozano-Robledo) - Lecture 4",
+       "length": "42:45"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "For young learners",
+   "note": "Short, friendly series for kids and anyone starting out.",
+   "courses": [
+    {
+     "id": "PLYpVTXjEi1ochf4g9kFhxnT-aLyy52nup",
+     "title": "Algebra for Kids",
+     "by": null,
+     "year": null,
+     "description": "This series of videos is an introduction to Algebra, with 3rd and 4th graders in mind, and all other math enthusiasts!",
+     "videos": [
+      {
+       "id": "JFyDKihXueQ",
+       "title": "Algebra for Kids - Welcome to our channel!",
+       "length": "3:12"
+      },
+      {
+       "id": "BegrtU33K50",
+       "title": "Algebra for Kids - What is Algebra?",
+       "length": "12:21"
+      },
+      {
+       "id": "j5bfxqcZ-7c",
+       "title": "Algebra for Kids - What is a Variable?",
+       "length": "7:26"
+      },
+      {
+       "id": "ZnvXDH8VJjM",
+       "title": "Algebra for Kids - What is it Good For?",
+       "length": "6:26"
+      },
+      {
+       "id": "AwWexkAWUcI",
+       "title": "Algebra for Kids - Equations with addition and subtraction (1 of 2)",
+       "length": "10:04"
+      },
+      {
+       "id": "yrXKoJ6E-EM",
+       "title": "Algebra for Kids - Equations with addition and subtraction (2 of 2)",
+       "length": "10:58"
+      },
+      {
+       "id": "Srre6sBZdnk",
+       "title": "Algebra for Kids - Intro Music",
+       "length": "0:08"
+      },
+      {
+       "id": "EC3S_loRNXM",
+       "title": "Algebra for Kids - Meet an Algebraist! (Wanlin Li - MIT)",
+       "length": "11:00"
+      },
+      {
+       "id": "H8igDo6HkK4",
+       "title": "Algebra for Kids - The Hockey Pucks Problem",
+       "length": "10:51"
+      },
+      {
+       "id": "_H8PWKae3ak",
+       "title": "Algebra for Kids - How to do Math!",
+       "length": "7:03"
+      },
+      {
+       "id": "Ml7EnGL1gn4",
+       "title": "Algebra for Kids - Solving Equations Quickly",
+       "length": "12:38"
+      },
+      {
+       "id": "U7EHeo27dXQ",
+       "title": "Algebra for Kids - Word Problems with Addition and Subtraction",
+       "length": "15:07"
+      },
+      {
+       "id": "kO5qcGBWAgk",
+       "title": "Algebra for Kids - Equations with multiplication and division (intro!)",
+       "length": "13:13"
+      },
+      {
+       "id": "ihZ0IrBovEk",
+       "title": "Algebra for Kids - Equations with multiplication and division (intro 2/2)",
+       "length": "15:54"
+      },
+      {
+       "id": "h4oKLsOVuuA",
+       "title": "Algebra for Kids - More Word Problems (with multiplication and division)",
+       "length": "15:52"
+      },
+      {
+       "id": "kegAcDLcW0Y",
+       "title": "Algebra For Kids - Prank Video!?!",
+       "length": "5:47"
+      },
+      {
+       "id": "QxDHiNpBIf8",
+       "title": "Algebra For Kids - Fractions",
+       "length": "18:29"
+      },
+      {
+       "id": "0PLbtyFbaZE",
+       "title": "Algebra For Kids - And More Fractions!",
+       "length": "17:16"
+      },
+      {
+       "id": "o_J_zbvToUU",
+       "title": "Algebra For Kids - Word Problems with Fractions",
+       "length": "19:38"
+      },
+      {
+       "id": "Mu9wlnGFfb8",
+       "title": "Algebra For Kids - What Have We Learned?",
+       "length": "7:34"
+      }
+     ]
+    },
+    {
+     "id": "PLYpVTXjEi1od9KLgoPVg3JLGeGhw9-vcT",
+     "title": "Geometry for Kids",
+     "by": null,
+     "year": null,
+     "description": "This is a series of videos on Geometry, with kids in mind (~ 9 or 10 years old). We will start from some basic definitions, and then work on some elementary plane geometry: lines, angles, polygons, triangles, etc, and work our way up to proving some theorems!",
+     "videos": [
+      {
+       "id": "qXh9GIVw72I",
+       "title": "Geometry for Kids - Introduction",
+       "length": "7:52"
+      },
+      {
+       "id": "Y5QF401dXh4",
+       "title": "Geometry for Kids - Definitions",
+       "length": "11:59"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
