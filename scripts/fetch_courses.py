@@ -136,6 +136,8 @@ def main():
             time.sleep(0.4)
         if g.get("sort") == "length":  # longest first, by total running time
             courses.sort(key=lambda c: -sum(seconds(v["length"]) for v in c["videos"]))
+        elif g.get("sort") == "year":  # newest first; stable, so config order breaks ties
+            courses.sort(key=lambda c: -(c.get("year") or 0))
         groups.append({"name": g["name"], "note": g.get("note", ""), "courses": courses})
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps({"generated": time.strftime("%Y-%m-%d"), "groups": groups},

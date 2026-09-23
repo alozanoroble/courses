@@ -1,5 +1,5 @@
 {
- "_comment": "Curated list of YouTube playlists shown on /courses/. Order here is order on the page, unless a group sets \"sort\": \"length\" (longest first). Titles and descriptions default to YouTube's; set them here to override.",
+ "_comment": "Curated list of YouTube playlists shown on /courses/. Order here is order on the page, unless a group sets \"sort\": \"length\" (longest first) or \"year\" (newest first). Titles and descriptions default to YouTube's; set them here to override.",
  "groups": [
   {
    "name": "Courses",
@@ -19,7 +19,8 @@
   },
   {
    "name": "CTNT mini-courses",
-   "note": "Week-long mini-courses from the Connecticut Summer School in Number Theory.",
+   "note": "Week-long mini-courses from the Connecticut Summer School in Number Theory. Newest first.",
+   "sort": "year",
    "courses": [
     {"id": "PLYpVTXjEi1ocH005_i6IhFlXjUj1BziRX", "title": "Elliptic Curve Cryptography", "by": "Álvaro Lozano-Robledo", "year": 2026},
     {"id": "PLYpVTXjEi1oeWPDe0BzWO7ZVKfL6wDIdQ", "title": "Abelian Extensions and Kronecker–Weber", "by": "Lori Watson", "year": 2026},
